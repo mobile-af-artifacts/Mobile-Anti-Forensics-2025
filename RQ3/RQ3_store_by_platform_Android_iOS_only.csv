@@ -1,0 +1,8 @@
+file_type,Android,iOS
+Backup/Cloud,1,0
+Cache/Thumbnails,10,2
+FS-metadata,7,1
+Logs,12,0
+Other,29,3
+SQLite/WAL,17,2
+XML/plist,8,1

@@ -1,0 +1,9 @@
+store_type,DH,AW,TO,AT,PIA,AAF,Row Σ
+Cache/Thumbnails,3,2,1,0,0,0,6
+FS-metadata,3,3,1,1,0,0,8
+Logs,1,4,3,1,0,0,9
+Other,4,8,5,0,0,0,17
+SQLite/WAL,3,4,3,2,0,0,12
+XML/plist,2,2,1,0,0,0,5
+Backup/Cloud,0,1,1,0,0,0,2
+Column Σ,16,24,15,4,0,0,59

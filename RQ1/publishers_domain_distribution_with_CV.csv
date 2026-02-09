@@ -1,0 +1,6 @@
+publishers,Total,Multimedia (image/video/audio),filesystem,mobile,General,IoT,database,network,memory,Cloud,malware,Mean,StdDev,CV
+IEEE,106,45,13,22,10,6,3,3,2,2,0,10.6,12.49145162,1.178438832
+Elsevier,40,10,13,9,6,1,0,0,1,0,0,4,4.552721464,1.138180366
+ACM,18,11,4,1,0,1,1,0,0,0,0,1.8,3.127589836,1.737549909
+springer,17,14,0,1,1,1,0,0,0,0,0,1.7,3.932383039,2.313166493
+Others,16,3,7,2,3,0,0,0,0,0,1,1.6,2.053821272,1.283638295

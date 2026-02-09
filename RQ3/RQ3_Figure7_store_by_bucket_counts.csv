@@ -1,0 +1,8 @@
+store_type,App-private,OS-level,External/Shared,Backup/Cloud
+SQLite,19,0,0,0
+XML/plist,7,0,0,2
+Logs,2,10,0,0
+Cache/Thumbnails,7,1,4,0
+FS-metadata,0,8,0,0
+Other,13,8,1,10
+Backup/Cloud,0,0,0,1
