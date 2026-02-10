@@ -29,9 +29,9 @@ Each dataset is cited within the manuscript and directly supports a correspondin
 
 ## Research Questions
 
-1. **RQ1:** What anti-forensic techniques and tools have been examined in the literature?  
-2. **RQ2:** To what extent have these studies focused on mobile versus non-mobile platforms?  
-3. **RQ3:** What forensic artifacts persist after anti-forensic activity on mobile devices?
+1. **RQ1:** What anti-forensic techniques have been examined in the literature, and how have they evolved?  
+2. **RQ2:** How is \af{} research distributed across platforms, and to what extent do studies address mobile devices?  
+3. **RQ3:** What forensic artifacts persist after \af{} activity on mobile devices, and how can they be categorized?
 
 ---
 
