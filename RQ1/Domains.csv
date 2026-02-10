@@ -1,0 +1,968 @@
+﻿title,domain,Ai-based,publishers,device_type
+"```json
+{
+  ""title"": ""Discovering spoliation of evidence through identifying traces on deleted Ô¨Åles in macOS""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Fool me once: A systematic review of techniques to authenticate digital artefacts""
+}
+```",General,,Elsevier,general
+"```json
+{
+  ""title"": ""Forensic analysis of ephemeral messaging applications: Disappearing messages or evidential data?""
+}
+```",mobile,,Elsevier,cross-platform
+"```json
+{
+  ""title"": ""Identification of data wiping tools based on deletion patterns in ReFS $Logfile""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Data remnants analysis of document files in Windows: Microsoft 365 as a case study""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Hit and run: Forensic vehicle event reconstruction through driver-based cloud data from Progressive‚Äôs snapshot application""
+}
+```",mobile,,Elsevier,cross-platform
+"```json
+{
+  ""title"": ""Evaluating Commercial Counter-Forensic Tools""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Time for Truth: Forensic Analysis of NTFS Timestamps""
+}
+```",filesystem,,ACM,non-mobile
+"```json
+{
+  ""title"": ""NULL Byte Injection: Anti-Forensic Technique for Data Hiding in FAT32 File System""
+}
+```",filesystem,,ACM,non-mobile
+"```json
+{
+  ""title"": ""Analyzing Security Vulnerability and Forensic Investigation of ROS2: A Case Study""
+}
+```",IoT,,ACM,non-mobile
+"```json
+{
+  ""title"": ""Forget About It: Batched Database Sanitization""
+}
+```",database,,ACM,general
+"```json
+{
+  ""title"": ""Forensic Trace Analysis for MP3 based Stego-Malware: Exemplary Study for Stego-Algorithm and Capacity Attribution to derive YARA Rules for Malware Identification""
+}
+```",Multimedia (image/video/audio),,ACM,general
+"```json
+{
+  ""title"": ""A Survey On Anti-Forensics Techniques""
+}
+```",General,,IEEE,general
+"```json
+{
+  ""title"": ""Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""AfterImage: Evading Traditional Indicator of Compromise (IOC) Blocking""
+}
+```",network,,IEEE,general
+"```json
+{
+  ""title"": ""An Investigation into the Efficacy of Three Erasure Tools under Windows 7""
+}
+```",filesystem,,Others,non-mobile
+"```json
+{
+  ""title"": ""An Overview on Handling Anti Forensic Issues in Android Devices Using Forensic Automator Tool""
+}
+```",mobile,AI based,IEEE,mobile
+"```json
+{
+  ""title"": ""Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements""
+}
+```",IoT,,IEEE,general
+"```json
+{
+  ""title"": ""Anti-Forensic Challenges in Digital Forensics Investigations: An Overview of Techniques and Tools""
+}
+```",General,General,IEEE,general
+"```json
+{
+  ""title"": ""Anti-Forensic Deepfake Personas and How To Spot Them""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""BDC-GAN: Bidirectional Conversion Between Computer-Generated and Natural Facial Images for Anti-Forensics""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Comparative Analysis of Recovery Tools For Digital Forensic Evidence Using NIST Framework 800-101 R1""
+}
+```",mobile,,IEEE,cross-platform
+"```json
+{
+  ""title"": ""Data Wiping Tool: ByteEditor Technique""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Deployment and Detection of Anti-Forensics Shredding Technique in Android Mobile Devices""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""DETECTABLE TAMPERING OF JPEG ANTI-FORENSICS""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Digital Forensic Tools: Comparison of Autopsy TSK and Forensic Explorer""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Domain-Agnostic Document Authentication Against Practical Recapturing Attacks""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""ExS-GAN: Synthesizing Anti-Forensics Images via Extra Supervised GAN""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Experimental Evaluation of e¬∑MMC Data Recovery""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Exploring the Use of Tails Operating System in Cybercrime and its Impact on Law Enforcement Investigations""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""GIMD-Net: An effective General-purpose Image Manipulation Detection Network, even under anti-forensic attacks""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Identifying Bugs In Digital Forensic Tools""
+}
+```",General,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software""
+}
+```",General,,Others,general
+"```json
+{
+  ""title"": ""Supervised Anti-Forensic DNN to Detect Multiple-time Compressed JPEG Tampered Images""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""WiDeS: Wiping Detection using System-calls - An Anti-Forensic Resistant Approach""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""MISLGAN: AN ANTI-FORENSIC CAMERA MODEL FALSIFICATION FRAMEWORK USING A GENERATIVE ADVERSARIAL NETWORK""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""EVALUATING THE EFFICACY OF RGB-D CAMERAS FOR SURVEILLANCE""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Dual-Domain Generative Adversarial Network for Digital Image Operation Anti-forensics""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""FORENSICS VS. ANTI-FORENSICS: A DECISION AND GAME THEORETIC FRAMEWORK""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Temporal Forensics and Anti-Forensics for Motion Compensated Video""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""A Conceptual Framework for Database Anti-forensics Impact Mitigation""
+}
+```",database,,IEEE,general
+"```json
+{
+  ""title"": ""Multiple-Operation Image Anti-Forensics with WGAN-GP Framework""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics""
+}
+```",Multimedia (image/video/audio),AI based,springer,general
+"```json
+{
+  ""title"": ""Generative Adversarial Attacks Against Deep-Learning-Based Camera Model Identification""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚Äô behaviour""
+}
+```",Multimedia (image/video/audio),,Elsevier,general
+"```json
+{
+  ""title"": ""Game-Theoretic Decision Support for Cyber Forensic Investigations""
+}
+```",General,,Others,general
+"```json
+{
+  ""title"": ""Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem""
+}
+```",General,,Elsevier,general
+"```json
+{
+  ""title"": ""Data fragment forensics for embedded DVR systems""
+}
+```",Multimedia (image/video/audio),,Elsevier,mobile
+"```json
+{
+  ""title"": ""Deleting collected digital evidence by exploiting a widely adopted hardware write blocker""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Android forensics: Automated data collection and reporting from a mobile device""
+}
+```",mobile,,Elsevier,mobile
+"```json
+{
+  ""title"": ""Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy""
+}
+```",General,,Elsevier,cross-platform
+"```json
+{
+  ""title"": ""An improved median Ô¨Åltering anti-forensics with better image quality and forensic undetectability""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""Anti-forensics of JPEG Compression Using Generative Adversarial Networks""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Implementation of the National Institute of Standards and Technology (NIST) Digital Evidence Framework in Forensic Processes on Social Media""
+}
+```",mobile,,Elsevier,mobile
+"```json
+{
+  ""title"": ""On the Feasibility of Android Stegomalware: A Detection Study""
+}
+```",mobile,,Others,mobile
+"```json
+{
+  ""title"": ""Anti-Forensics with Steganographic File Embedding in Digital Image Using Genetic Algorithm""
+}
+```",Multimedia (image/video/audio),AI based,Others,general
+"```json
+{
+  ""title"": ""Detection of Suspicious Timestamps in NTFS using Volume Shadow Copies""
+}
+```",filesystem,,Others,non-mobile
+"```json
+{
+  ""title"": ""A forensic analysis of streaming platforms on Android OS""
+}
+```",mobile,,Elsevier,mobile
+"```json
+{
+  ""title"": ""Analysis of Autopsy Mobile Forensic Tools against Unsent Messages on WhatsApp Messaging Application""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Steganography and Computer Forensics - the art of hiding information: a systematic review""
+}
+```",Multimedia (image/video/audio),,Others,general
+"```json
+{
+  ""title"": ""A Review of Digital Video Tampering: From Simple Editing to Full Synthesis""
+}
+```",Multimedia (image/video/audio),,Elsevier,general
+"```json
+{
+  ""title"": ""Taxonomy for Anti-Forensics Techniques & Countermeasures""
+}
+```",General,,Others,general
+"```json
+{
+  ""title"": ""Analysis of Steganographic on Digital Evidence using General Computer Forensic Investigation Model Framework""
+}
+```",filesystem,,Others,non-mobile
+"```json
+{
+  ""title"": ""Data Sanitization Framework for Computer Hard Disk Drive: A Case Study in Malaysia""
+}
+```",filesystem,,Others,non-mobile
+"```json
+{
+  ""title"": ""SafePaint: Anti-forensic Image Inpainting with Domain Adaptation""
+}
+```",Multimedia (image/video/audio),AI based,ACM,general
+"```json
+{
+  ""title"": ""An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)""
+}
+```",IoT,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Identification of true speakers from disguised voices in anti-forensic scenarios using an efficient framework""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""Anti-forensics of fake stereo audio using generative adversarial network""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""A SMART Goal-based Framework for Privacy Preserving Embedded Forensic Investigations""
+}
+```",IoT,,IEEE,general
+"```json
+{
+  ""title"": ""A Framework for Detecting Anti-forensics in Cloud Environment""
+}
+```",Cloud,,IEEE,general
+"```json
+{
+  ""title"": ""Anti-Forensics of Digital Image Compression""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Counterfeiting and Defending the Digital Forensic Process""
+}
+```",General,,IEEE,general
+"```json
+{
+  ""title"": ""Anti-Forensics of Audio Source Identification Using Generative Adversarial Network""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Digital Image Forensic Approach to Counter the JPEG Anti-Forensic Attacks""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""SYNTHESIZING BLACK-BOX ANTI-FORENSICS DEEPFAKES WITH HIGH VISUAL QUALITY""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Exploring Firmware‚ÄëBased Anti‚Äëforensics in IoT Devices: Techniques and Implications""
+}
+```",IoT,,springer,non-mobile
+"```json
+{
+  ""title"": ""Making Generated Images Hard To Spot: A Transferable Attack On Synthetic Image Detectors""
+}
+```",Multimedia (image/video/audio),AI based,springer,general
+"```json
+{
+  ""title"": ""Making DeepFakes more spurious: evading deep face forgery detection via trace removal attack""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Black-Box Attack against GAN-Generated Image Detector with Contrastive Perturbation""
+}
+```",Multimedia (image/video/audio),AI based,Elsevier,general
+"```json
+{
+  ""title"": ""Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Understanding digital image anti‚Äëforensics: an analytical review""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""A memory-based game-theoretic defensive approach for digital forensic investigators""
+}
+```",General,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Exploring Adversarial Fake Images on Face Manifold""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Memory Forensics: Recovering Chat Messages and Encryption Master Key""
+}
+```",memory,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Bibliography of digital image anti-forensics and anti-anti-forensics techniques""
+}
+```",Multimedia (image/video/audio),,Others,general
+"```json
+{
+  ""title"": ""Camera Trace Erasing""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Improving the Security of Visual Challenges""
+}
+```",Multimedia (image/video/audio),,ACM,general
+"```json
+{
+  ""title"": ""The Optimization Analysis for the Original and Manipulation Identification of Illegally Filmed Images""
+}
+```",mobile,,Others,mobile
+"```json
+{
+  ""title"": ""Forensic exploration on windows File History""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""When finding nothing may be evidence of something: Anti-forensic and digital tool marks""
+}
+```",General,,Elsevier,general
+"```json
+{
+  ""title"": ""Can computer forensic tools be trusted in digital investigations?""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""DistLog: A Distributed Logging Scheme for IoT Forensics""
+}
+```",IoT,,Elsevier,general
+"```json
+{
+  ""title"": ""An Android Case Study on Technical Anti-Forensic Challenges of WhatsApp Application""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""A game-theoretic defensive approach for forensic investigators against rootkits""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""An improved anti-forensic technique for JPEG compression""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""Memory Layout Extraction and Verification Method for Reliable Physical Memory Acquisition""
+}
+```",filesystem,,Others,non-mobile
+"```json
+{
+  ""title"": ""Investigation of Countermeasures to Anti-Forensic Methods""
+}
+```",General,,IEEE,general
+"```json
+{
+  ""title"": ""Differentiating Synthetic and Optical Zooming for Passive Video Forgery Detection: An Anti-Forensic Perspective""
+}
+```",Multimedia (image/video/audio),,Elsevier,general
+"```json
+{
+  ""title"": ""Anti-forensic approach for JPEG compressed images with enhanced image quality and forensic undetectability""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""A robust JPEG compression detector for image forensics""
+}
+```",Multimedia (image/video/audio),,Elsevier,general
+"```json
+{
+  ""title"": ""Anti-forensics of Median Filtering and Contrast Enhancement""
+}
+```",Multimedia (image/video/audio),,Elsevier,general
+"```json
+{
+  ""title"": ""Forensics and Anti-Forensics of a NAND Flash Memory: From a Copy-Back Program Perspective""
+}
+```",memory,,IEEE,general
+"```json
+{
+  ""title"": ""Unmanned Aerial Vehicle Kill Chain: Purple Teaming Tactics""
+}
+```",IoT,,IEEE,general
+"```json
+{
+  ""title"": ""Anti-Forensics for Face Swapping Videos via Adversarial Training""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""CGR-GAN: CG facial image regeneration for anti-forensics based on generative adversarial network""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Drone Disrupted Denial of Service Attack (3DOS): Towards an Incident Response and Forensic Analysis of Remotely Piloted Aerial Systems (RPASs)""
+}
+```",IoT,,IEEE,general
+"```json
+{
+  ""title"": ""Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks""
+}
+```",Multimedia (image/video/audio),AI based,Elsevier,general
+"```json
+{
+  ""title"": ""De-Wipimization: Detection of data wiping traces for investigating NTFS file system""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""An approach to detect video frame deletion under anti‚Äëforensics""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""Perception matters: Exploring imperceptible and transferable anti-forensics for GAN-generated fake face imagery detection""
+}
+```",Multimedia (image/video/audio),AI based,Elsevier,general
+"```json
+{
+  ""title"": ""Overview of Digital Forensics and Anti-Forensics Techniques""
+}
+```",General,AI based,IEEE,general
+"```json
+{
+  ""title"": ""Forensic Analysis with Anti-Forensic Case Studies on Amazon Alexa and Google Assistant Build-In Smart Home Speakers""
+}
+```",IoT,,IEEE,general
+"```json
+{
+  ""title"": ""End-to-End Anti-Forensics Network of Single and Double JPEG Detection""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Countering Anti-forensics of SIFT-based Copy-Move Detection""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Digital tool marks (DTMs): a forensic analysis of file wiping software""
+}
+```",filesystem,,Others,non-mobile
+"```json
+{
+  ""title"": ""Anti-Forensic Threat Modeling""
+}
+```",General,,springer,general
+"```json
+{
+  ""title"": ""Now You See Me: Hide and Seek in Physical Address Space""
+}
+```",filesystem,,ACM,non-mobile
+"```json
+{
+  ""title"": ""Comprehensive Expansion in Anti-Forensics Techniques (AFTs) Based Compressed Image""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Android Mobile Forensic Analyzer for Stegno data""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""PHASE BASED DETECTION OF JPEG COUNTER FORENSICS""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence""
+}
+```",mobile,,ACM,mobile
+"```json
+{
+  ""title"": ""Anti-forensics in ext4: On secrecy and usability of timestamp-based data hiding""
+}
+```",mobile,,Elsevier,mobile
+"```json
+{
+  ""title"": ""Digital Forensic Analysis for Enhancing Information Security""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Controlled experiments in digital evidence tampering""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Anti-computer forensics""
+}
+```",General,,IEEE,general
+"```json
+{
+  ""title"": ""Anti-Forensics of JPEG Detectors via Adaptive Quantization Table Replacement""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Analyzing Android Application in Real-time at Kernel Level""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""A JPEG Blocking Artifact Detector for Image Forensics""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Digital Video Source Acquisition Forgery Technique Based on Pattern Sensor Noise Extraction""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Digital Artifacts- Anti-Forensics Approach for Optimization of Digital Images""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES""
+}
+```",database,,IEEE,general
+"```json
+{
+  ""title"": ""Attacking contrast enhancement forensics in digital images""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""AFAUC ‚Äì anti-forensics of storage devices by alternative use of communication channels""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Mitigating Anti-forensics in the Cloud via Resource-Based Privacy Preserving Activity Attribution""
+}
+```",Cloud,,IEEE,general
+"```json
+{
+  ""title"": ""Data Remanence and Digital Forensic Investigation for CUDA Graphics Processing Units""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Performance Evaluation of Dither based Approach for Alleviation of Blocking Artifact in Image Compression""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Detecting double JPEG compression and its related anti-forensic operations with CNN""
+}
+```",Multimedia (image/video/audio),AI based,springer,general
+"```json
+{
+  ""title"": ""A Non-Algorithmic Forensic Approach for Hiding Data in Image Files""
+}
+```",Multimedia (image/video/audio),,ACM,general
+"```json
+{
+  ""title"": ""Anti-forensics of double JPEG compression with the same quantization matrix""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""FROST ‚Äì Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance""
+}
+```",filesystem,,ACM,non-mobile
+"```json
+{
+  ""title"": ""DETECTING ANTI-FORENSIC ATTACKS ON DEMOSAICING-BASED CAMERA MODEL IDENTIFICATION""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Forensic artefacts associated with intentionally deleted user accounts""
+}
+```",filesystem,,Others,non-mobile
+"```json
+{
+  ""title"": ""Deniable Encryption based on Standard RSA with OAEP""
+}
+```",network,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Anti-forensic steganography using multi-bit MER with flexible bit location""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Countering Anti-Forensics of Lateral Chromatic Aberration""
+}
+```",Multimedia (image/video/audio),,ACM,general
+"```json
+{
+  ""title"": ""A Survey On Anti-Forensics Techniques""
+}
+```",General,,IEEE,general
+"```json
+{
+  ""title"": ""Analysis of VMware Virtual Machine in Forensics and Anti-Forensics Paradigm""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Cryptographic key protection against FROST for mobile devices""
+}
+```",mobile,,springer,mobile
+"```json
+{
+  ""title"": ""Correlating CDR with other data sources Succeeding against Anti-Forensics""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""How to Decrypt PIN-Based Encrypted Backup Data of Samsung Smartphones""
+}
+```",mobile,,Elsevier,mobile
+"```json
+{
+  ""title"": ""Video content authentication techniques: a comprehensive survey""
+}
+```",Multimedia (image/video/audio),,springer,general
+"```json
+{
+  ""title"": ""Alleviation of Quantization Artifact using Anti-Forensic in Image Processing""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Introducing Anti-Forensics to SQLite Corpora and Tool Testing""
+}
+```",database,,IEEE,general
+"```json
+{
+  ""title"": ""The Forensic Analysis of a False Digital Alibi""
+}
+```",General,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Determining removal of forensic artefacts using the USN change journal""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Forensic identification of resampling operators: A semi non-intrusive approach""
+}
+```",Multimedia (image/video/audio),,Elsevier,general
+"```json
+{
+  ""title"": ""PROTECTION AGAINST REVERSE ENGINEERING IN DIGITAL CAMERAS""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""A Hierarchical Visibility theory for formal digital investigation of anti-forensic attacks""
+}
+```",General,,Elsevier,general
+"```json
+{
+  ""title"": ""Novel Anti-forensics Approaches for Smart Phones""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""CONCEALABILITY-RATE-DISTORTION TRADEOFF IN IMAGE COMPRESSION ANTI-FORENSICS""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Android anti-forensics through a local paradigm""
+}
+```",mobile,,Elsevier,mobile
+"```json
+{
+  ""title"": ""A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks""
+}
+```",General,,IEEE,general
+"```json
+{
+  ""title"": ""Anti-Forensics: The Next Step in Digital Forensics Tool Testing""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""A Novel Anti-Forensics Technique for the Android OS""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Android Anti-forensics: Modifying CyanogenMod""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""WAVELET-BASED IMAGE COMPRESSION ANTI-FORENSICS""
+}
+```",Multimedia (image/video/audio),AI based,IEEE,general
+"```json
+{
+  ""title"": ""Android Malware Forensics: Reconstruction of Malicious Events""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""EXPOSING IMAGE FORGERY THROUGH THE DETECTION OF CONTRAST ENHANCEMENT""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Forensic Analysis of Wickr Application on Android Devices""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Anti-forensics with a small army of exploits""
+}
+```",filesystem,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""Digital Forensics: Latest Challenges and Response""
+}
+```",mobile,,IEEE,cross-platform
+"```json
+{
+  ""title"": ""MIXED-STRATEGY NASH EQUILIBRIUM IN THE CAMERA SOURCE IDENTIFICATION GAME""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Forensic Artifacts Left By Virtual Disk Encryption Tools""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""UNDETECTABLE IMAGE TAMPERING THROUGH JPEG COMPRESSION ANTI-FORENSICS""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Malware Forensics: Discovery of the Intent of Deception""
+}
+```",malware,,Others,general
+"```json
+{
+  ""title"": ""A new anti-forensic tool based on a simple data encryption scheme""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""A New Technique for Removing Forensically Detectable Traces from Digital Images""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""The VAD tree: A process-eye view of physical memory""
+}
+```",memory,,Elsevier,non-mobile
+"```json
+{
+  ""title"": ""ANTI-FORENSICS FOR FRAME DELETION/ADDITION IN MPEG VIDEO""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""Teaching Digital Forensics Techniques Within Linux Environments""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""Automatic, Selective and Secure Deletion of Digital Evidence""
+}
+```",filesystem,,IEEE,non-mobile
+"```json
+{
+  ""title"": ""A Modified Anti-Forensic Technique for Removing Detectable Traces from Digital Images""
+}
+```",Multimedia (image/video/audio),,IEEE,general
+"```json
+{
+  ""title"": ""On the Construction of a False Digital Alibi on the Android OS""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Defense Technology of Anti Forensic""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Formal Digital Investigation of Anti-forensic Attacks""
+}
+```",network,,IEEE,general
+"```json
+{
+  ""title"": ""iOS anti-forensics: How can we securely conceal, delete and insert data?""
+}
+```",mobile,,IEEE,mobile
+"```json
+{
+  ""title"": ""Asynchronous Forensic Investigative Approach to Recover Deleted Data from Instant Messaging Applications""
+}
+```",mobile,,IEEE,cross-platform
+Survey  of  data  remaining  on  second  hand memory  cards  in  the  UK  ?,mobile,,Elsevier,mobile
+"{
+  ""title"": ""Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks""
+}",Multimedia (image/video/audio),AI based,ACM,general
+"""{
+  """"title"""": """"Generating Higher-Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask""""
+}""",Multimedia (image/video/audio),AI based,ACM,general
+"{
+  ""title"": ""Improving JPEG Image Anti-forensics""
+}",Multimedia (image/video/audio),,ACM,general
+"""{
+  """"title"""": """"New Approach on Steganalysis: Reverse-Engineering based Steganography SW Analysis""""
+}""",Multimedia (image/video/audio),,ACM,general
+"{
+  ""title"": ""JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics""
+}",Multimedia (image/video/audio),,ACM,general
+"""{
+  """"title"""": """"Anti-Forensics of Contrast Enhancement in Digital Images""""
+}""",Multimedia (image/video/audio),,ACM,general
+"{
+  ""title"": ""Forensics and counter anti-forensics of video inter-frame forgery""
+}",Multimedia (image/video/audio),,springer,general
