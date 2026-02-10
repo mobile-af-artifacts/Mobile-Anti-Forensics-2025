@@ -19,7 +19,7 @@ All data files in this repository directly support the quantitative analyses and
 
 | Section | Description | Files |
 |----------|--------------|-------|
-| **RQ1 — Anti-Forensic Techniques Examined** | Datasets related to AF taxonomy, high-level categories, and domain-level publication patterns. | `techniques_flat.xlsx`, `Domains.xlsx`, `publishers_domain_distribution_with_CV.csv`, `subcategory_pgfplots_data_top15.csv` |
+| **RQ1 — Anti-Forensic Techniques Examined** | Datasets related to AF taxonomy, extraction outputs, high-level categories, domain-level publication patterns, and yearly trends. | `master_paper.xlsx`, `master_paper.csv`, `AAF_extraction_output.csv`, `Domains.csv`, `publishers_domain_distribution_with_CV.csv`, `subcategory_pgfplots_data_top15.csv`, `category_yearly_trends.csv` |
 | **RQ2 — Platform and Device Focus** | Data showing platform/device distribution, category mix, and yearly research trends. | `rq2_device_type_counts.csv`, `rq2_platform_totals_unique_papers.csv`, `rq2_category_mix_by_platform_percent.csv`, `rq2_device_type_share_by_year.csv` |
 | **RQ3 — Residual Forensic Artifacts on Mobile Devices** | Data mapping residual artifacts, their storage locations, and platform-level persistence. | `RQ3_mobile_stack_counts.csv`, `RQ3_category_by_type_counts.csv`, `RQ3_platform_by_type_counts.csv`, `RQ3_mobile_long.csv`, `RQ3_mobile_matrix_clean.xlsx` |
 
