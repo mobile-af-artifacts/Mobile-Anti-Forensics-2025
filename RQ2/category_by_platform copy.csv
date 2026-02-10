@@ -1,0 +1,968 @@
+﻿,platforms,category
+"
+
+   Discovering spoliation of evidence through identifying traces on deleted Ô¨Åles in macOS
+
+","Windows, macOS","AW, TO"
+"
+
+   Fool me once A systematic review of techniques to authenticate digital artefacts
+
+",N/A,N/A
+"
+
+   Forensic analysis of ephemeral messaging applications Disappearing messages or evidential data?
+
+","Android, iOS, Windows 10","AW, TO"
+"
+
+   Identification of data wiping tools based on deletion patterns in ReFS $Logfile
+
+","Windows, macOS","TO, AW"
+"
+
+   Data remnants analysis of document files in Windows Microsoft 365 as a case study
+
+","Windows, macOS",N/A
+"
+
+   Hit and run Forensic vehicle event reconstruction through driver-based cloud data from Progressive‚Äôs snapshot application
+
+","Android, iOS, Windows, Cloud",AW
+"
+
+   Evaluating Commercial Counter-Forensic Tools
+
+",Windows,TO
+"
+
+   Time for Truth Forensic Analysis of NTFS Timestamps
+
+",Windows,"TO, AW"
+"
+
+   NULL Byte Injection Anti-Forensic Technique for Data Hiding in FAT32 File System
+
+",Windows,TO
+"
+
+   Analyzing Security Vulnerability and Forensic Investigation of ROS2 A Case Study
+
+","Windows, ubuntu",AT
+"
+
+   Forget About It Batched Database Sanitization
+
+",N/A,AW
+"
+
+   Forensic Trace Analysis for MP3 based Stego-Malware Exemplary Study for Stego-Algorithm and Capacity Attribution to derive YARA Rules for Malware Identification
+
+",N/A,AW
+"
+
+   A Survey On Anti-Forensics Techniques
+
+",N/A,DH
+"
+
+   Advanced Industrial Espionage Mobile Device as Anti-Forensic and Anonymization Tool
+
+",Android,"TO, AT, DH"
+"
+
+   AfterImage Evading Traditional Indicator of Compromise (IOC) Blocking
+
+",N/A,"PIA, DH, TO"
+"
+
+   An Investigation into the Efficacy of Three Erasure Tools under Windows 7
+
+",Windows,TO
+"
+
+   An Overview on Handling Anti Forensic Issues in Android Devices Using Forensic Automator Tool
+
+",Android,AW
+"
+
+   Analyzing Edge IoT Digital Forensics Tools Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+","Windows, Linux","AW, DH, TO"
+"
+
+   Anti-Forensic Challenges in Digital Forensics Investigations An Overview of Techniques and Tools
+
+",N/A,"AW, DH"
+"
+
+   Anti-Forensic Deepfake Personas and How To Spot Them
+
+",N/A,"DH, AW, AT, TO"
+"
+
+   BDC-GAN Bidirectional Conversion Between Computer-Generated and Natural Facial Images for Anti-Forensics
+
+",N/A,AAF
+"
+
+   Comparative Analysis of Recovery Tools For Digital Forensic Evidence Using NIST Framework 800-101 R1
+
+","Android, iOS","AAF, DH"
+"
+
+   Data Wiping Tool ByteEditor Technique
+
+",Windows,AW
+"
+
+   Deployment and Detection of Anti-Forensics Shredding Technique in Android Mobile Devices
+
+",Android,"AW, TO"
+"
+
+   DETECTABLE TAMPERING OF JPEG ANTI-FORENSICS
+
+",N/A,"TO, AW, DH"
+"
+
+   Digital Forensic Tools Comparison of Autopsy TSK and Forensic Explorer
+
+","Windows, Linux, macOS",DH
+"
+
+   Domain-Agnostic Document Authentication Against Practical Recapturing Attacks
+
+",,TO
+"
+
+   ExS-GAN Synthesizing Anti-Forensics Images via Extra Supervised GAN
+
+",N/A,TO
+"
+
+   Experimental Evaluation of e¬∑MMC Data Recovery
+
+",Android,AW
+"
+
+   Exploring the Use of Tails Operating System in Cybercrime and its Impact on Law Enforcement Investigations
+
+",linux,"AT, PIA, TO, AW"
+"
+
+   GIMD-Net An effective General-purpose Image Manipulation Detection Network, even under anti-forensic attacks
+
+",N/A,TO
+"
+
+   Identifying Bugs In Digital Forensic Tools
+
+",Windows,"AT, DH"
+"
+
+   Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",N/A,"AT, DH"
+"
+
+   Supervised Anti-Forensic DNN to Detect Multiple-time Compressed JPEG Tampered Images
+
+",linux,TO
+"
+
+   WiDeS Wiping Detection using System-calls - An Anti-Forensic Resistant Approach
+
+",linux,"PIA, AW, AT"
+"
+
+   MISLGAN AN ANTI-FORENSIC CAMERA MODEL FALSIFICATION FRAMEWORK USING A GENERATIVE ADVERSARIAL NETWORK
+
+",N/A,"AW,TO"
+"
+
+   EVALUATING THE EFFICACY OF RGB-D CAMERAS FOR SURVEILLANCE
+
+",N/A,"TO, AAF"
+"
+
+   Dual-Domain Generative Adversarial Network for Digital Image Operation Anti-forensics
+
+",N/A,TO
+"
+
+   FORENSICS VS. ANTI-FORENSICS A DECISION AND GAME THEORETIC FRAMEWORK
+
+",N/A,TO
+"
+
+   Temporal Forensics and Anti-Forensics for Motion Compensated Video
+
+",N/A,TO
+"
+
+   A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",N/A,"DH, AW, PIA, TO"
+"
+
+   Multiple-Operation Image Anti-Forensics with WGAN-GP Framework
+
+",N/A,TO
+"
+
+   A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics
+
+",N/A,TO
+"
+
+   Generative Adversarial Attacks Against Deep-Learning-Based Camera Model Identification
+
+",N/A,AAF
+"
+
+   A survey and research challenges of anti-forensics Evaluation of game-theoretic models in simulation of forensic agents‚Äô behaviour
+
+",N/A,"AW, DH, TO"
+"
+
+   Game-Theoretic Decision Support for Cyber Forensic Investigations
+
+",N/A,"PIA, AW, DH, TO"
+"
+
+   Arriving at an anti-forensics consensus Examining how to define and control the anti-forensics problem
+
+",N/A,"TO, DH, AW"
+"
+
+   Data fragment forensics for embedded DVR systems
+
+",N/A,N/A
+"
+
+   Deleting collected digital evidence by exploiting a widely adopted hardware write blocker
+
+","Windows, Linux","AW, AT, PIA"
+"
+
+   Android forensics Automated data collection and reporting from a mobile device
+
+",Android,N/A
+"
+
+   Anti-forensics Furthering digital forensic science through a new extended, granular taxonomy
+
+","Android, iOS, Windows, Linux, MacOs","AT,AW,DH,TO, PIA"
+"
+
+   An improved median Ô¨Åltering anti-forensics with better image quality and forensic undetectability
+
+",N/A,TO
+"
+
+   Anti-forensics of JPEG Compression Using Generative Adversarial Networks
+
+",N/A,TO
+"
+
+   UnSafengine64 A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",Windows,AT
+"
+
+   Implementation of the National Institute of Standards and Technology (NIST) Digital Evidence Framework in Forensic Processes on Social Media
+
+",Android,N/A
+"
+
+   On the Feasibility of Android Stegomalware A Detection Study
+
+",Android,"DH,TO, AT"
+"
+
+   Anti-Forensics with Steganographic File Embedding in Digital Image Using Genetic Algorithm
+
+",N/A,DH
+"
+
+   Detection of Suspicious Timestamps in NTFS using Volume Shadow Copies
+
+","Windows, Linux",TO
+"
+
+   A forensic analysis of streaming platforms on Android OS
+
+",Android,AW
+"
+
+   Analysis of Autopsy Mobile Forensic Tools against Unsent Messages on WhatsApp Messaging Application
+
+",Android,N/A
+"
+
+   Steganography and Computer Forensics - the art of hiding information a systematic review
+
+",N/A,DH
+"
+
+   A Review of Digital Video Tampering From Simple Editing to Full Synthesis
+
+",N/A,N/A
+"
+
+   Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",N/A,"AW, DH, AT,TO"
+"
+
+   Analysis of Steganographic on Digital Evidence using General Computer Forensic Investigation Model Framework
+
+",Windows,DH
+"
+
+   Data Sanitization Framework for Computer Hard Disk Drive A Case Study in Malaysia
+
+",Windows,AW
+"
+
+   SafePaint Anti-forensic Image Inpainting with Domain Adaptation
+
+",N/A,AAF
+"
+
+   An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",linux,"AT, AW, TO, PIA, DH"
+"
+
+   Identification of true speakers from disguised voices in anti-forensic scenarios using an efficient framework
+
+",N/A,TO
+"
+
+   Anti-forensics of fake stereo audio using generative adversarial network
+
+",N/A,AAF
+"
+
+   A SMART Goal-based Framework for Privacy Preserving Embedded Forensic Investigations
+
+",N/A,"DH, AW"
+"
+
+   A Framework for Detecting Anti-forensics in Cloud Environment
+
+",N/A,"AW, TO, AT"
+"
+
+   Anti-Forensics of Digital Image Compression
+
+",N/A,"TO, DH"
+"
+
+   Counterfeiting and Defending the Digital Forensic Process
+
+",N/A,"AT, TO, DH, AW, PIA"
+"
+
+   Anti-Forensics of Audio Source Identification Using Generative Adversarial Network
+
+",N/A,TO
+"
+
+   Digital Image Forensic Approach to Counter the JPEG Anti-Forensic Attacks
+
+",N/A,TO
+"
+
+   SYNTHESIZING BLACK-BOX ANTI-FORENSICS DEEPFAKES WITH HIGH VISUAL QUALITY
+
+",N/A,AAF
+"
+
+   Exploring Firmware‚ÄëBased Anti‚Äëforensics in IoT Devices Techniques and Implications
+
+",linux,"DH, AT"
+"
+
+   Making Generated Images Hard To Spot A Transferable Attack On Synthetic Image Detectors
+
+",N/A,AAF
+"
+
+   Making DeepFakes more spurious evading deep face forgery detection via trace removal attack
+
+",N/A,AAF'
+"
+
+   Black-Box Attack against GAN-Generated Image Detector with Contrastive Perturbation
+
+",N/A,AAF
+"
+
+   Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces
+
+",N/A,AAF
+"
+
+   Understanding digital image anti‚Äëforensics an analytical review
+
+",N/A,"TO, AAF"
+"
+
+   A memory-based game-theoretic defensive approach for digital forensic investigators
+
+",linux,"PIA, DH"
+"
+
+   Exploring Adversarial Fake Images on Face Manifold
+
+",N/A,AAF
+"
+
+   Memory Forensics Recovering Chat Messages and Encryption Master Key
+
+","Windows, Linux",DH
+"
+
+   Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",N/A,"TO, AAF"
+"
+
+   Camera Trace Erasing
+
+",N/A,TO
+"
+
+   Improving the Security of Visual Challenges
+
+",N/A,"TO, AT"
+"
+
+   The Optimization Analysis for the Original and Manipulation Identification of Illegally Filmed Images
+
+",Android,N/A
+"
+
+   Forensic exploration on windows File History
+
+",Windows,"AW, DH"
+"
+
+   When finding nothing may be evidence of something Anti-forensic and digital tool marks
+
+",N/A,"TO, DH, AW"
+"
+
+   Can computer forensic tools be trusted in digital investigations?
+
+","Windows, Linux","AT, DH,AW,TO"
+"
+
+   DistLog A Distributed Logging Scheme for IoT Forensics
+
+",N/A,"AT, TO, AW"
+"
+
+   An Android Case Study on Technical Anti-Forensic Challenges of WhatsApp Application
+
+",Android,AW
+"
+
+   A game-theoretic defensive approach for forensic investigators against rootkits
+
+","Windows, Linux","DH, AW, TO"
+"
+
+   An improved anti-forensic technique for JPEG compression
+
+",N/A,TO
+"
+
+   Memory Layout Extraction and Verification Method for Reliable Physical Memory Acquisition
+
+",Windows,"AT, TO"
+"
+
+   Investigation of Countermeasures to Anti-Forensic Methods
+
+",N/A,"AW, AT, TO ,DH"
+"
+
+   Differentiating Synthetic and Optical Zooming for Passive Video Forgery Detection An Anti-Forensic Perspective
+
+",N/A,TO
+"
+
+   Anti-forensic approach for JPEG compressed images with enhanced image quality and forensic undetectability
+
+",N/A,TO
+"
+
+   A robust JPEG compression detector for image forensics
+
+",N/A,TO
+"
+
+   Anti-forensics of Median Filtering and Contrast Enhancement
+
+",N/A,TO
+"
+
+   Forensics and Anti-Forensics of a NAND Flash Memory From a Copy-Back Program Perspective
+
+",N/A,AW
+"
+
+   Unmanned Aerial Vehicle Kill Chain Purple Teaming Tactics
+
+",N/A,"AT, PIA, TO"
+"
+
+   Anti-Forensics for Face Swapping Videos via Adversarial Training
+
+",N/A,AAF
+"
+
+   CGR-GAN CG facial image regeneration for anti-forensics based on generative adversarial network
+
+",N/A,AAF
+"
+
+   Drone Disrupted Denial of Service Attack (3DOS) Towards an Incident Response and Forensic Analysis of Remotely Piloted Aerial Systems (RPASs)
+
+",N/A,"DH, TO"
+"
+
+   Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",N/A,AAF
+"
+
+   De-Wipimization Detection of data wiping traces for investigating NTFS file system
+
+",Windows,AW
+"
+
+   An approach to detect video frame deletion under anti‚Äëforensics
+
+",N/A,TO
+"
+
+   Perception matters Exploring imperceptible and transferable anti-forensics for GAN-generated fake face imagery detection
+
+",N/A,AAF
+"
+
+   Overview of Digital Forensics and Anti-Forensics Techniques
+
+",N/A,"DH, AW, TO, AT, PIA"
+"
+
+   Forensic Analysis with Anti-Forensic Case Studies on Amazon Alexa and Google Assistant Build-In Smart Home Speakers
+
+",N/A,"TO, PIA"
+"
+
+   End-to-End Anti-Forensics Network of Single and Double JPEG Detection
+
+",N/A,AAF
+"
+
+   Countering Anti-forensics of SIFT-based Copy-Move Detection
+
+",N/A,TO
+"
+
+   Digital tool marks (DTMs) a forensic analysis of file wiping software
+
+",Windows,AW
+"
+
+   Anti-Forensic Threat Modeling
+
+",N/A,"TO, AW, DH"
+"
+
+   Now You See Me Hide and Seek in Physical Address Space
+
+","Windows, Linux","AT, DH"
+"
+
+   Comprehensive Expansion in Anti-Forensics Techniques (AFTs) Based Compressed Image
+
+",N/A,TO
+"
+
+   Android Mobile Forensic Analyzer for Stegno data
+
+",Android,"AT, DH, TO"
+"
+
+   PHASE BASED DETECTION OF JPEG COUNTER FORENSICS
+
+",N/A,TO
+"
+
+   Novel Insider Threat Techniques Automation and Generation of Ad Hoc Digital Evidence
+
+",Android,"AW, TO, PIA"
+"
+
+   Anti-forensics in ext4 On secrecy and usability of timestamp-based data hiding
+
+",Android,"TO, DH"
+"
+
+   Digital Forensic Analysis for Enhancing Information Security
+
+",Windows,"PIA, DH, TO"
+"
+
+   Controlled experiments in digital evidence tampering
+
+",linux,"TO,AW,AT, PIA"
+"
+
+   Anti-computer forensics
+
+",N/A,"AW, TO, DH"
+"
+
+   Anti-Forensics of JPEG Detectors via Adaptive Quantization Table Replacement
+
+",N/A,TO
+"
+
+   Analyzing Android Application in Real-time at Kernel Level
+
+",Android,TO
+"
+
+   A JPEG Blocking Artifact Detector for Image Forensics
+
+",N/A,TO
+"
+
+   Digital Video Source Acquisition Forgery Technique Based on Pattern Sensor Noise Extraction
+
+",Android,TO
+"
+
+   Digital Artifacts- Anti-Forensics Approach for Optimization of Digital Images
+
+",N/A,TO
+"
+
+   THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",N/A,"TO, AT"
+"
+
+   Attacking contrast enhancement forensics in digital images
+
+",N/A,TO
+"
+
+   AFAUC ‚Äì anti-forensics of storage devices by alternative use of communication channels
+
+",linux,"TO, AT, DH"
+"
+
+   Mitigating Anti-forensics in the Cloud via Resource-Based Privacy Preserving Activity Attribution
+
+",N/A,"TO, AW, DH"
+"
+
+   Data Remanence and Digital Forensic Investigation for CUDA Graphics Processing Units
+
+",N/A,"PIA, DH"
+"
+
+   Performance Evaluation of Dither based Approach for Alleviation of Blocking Artifact in Image Compression
+
+",N/A,TO
+"
+
+   Detecting double JPEG compression and its related anti-forensic operations with CNN
+
+",N/A,TO
+"
+
+   A Non-Algorithmic Forensic Approach for Hiding Data in Image Files
+
+",N/A,DH
+"
+
+   Anti-forensics of double JPEG compression with the same quantization matrix
+
+",N/A,TO
+"
+
+   FROST ‚Äì Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",linux,DH
+"
+
+   DETECTING ANTI-FORENSIC ATTACKS ON DEMOSAICING-BASED CAMERA MODEL IDENTIFICATION
+
+",N/A,AW
+"
+
+   Forensic artefacts associated with intentionally deleted user accounts
+
+",Windows,N/A
+"
+
+   Deniable Encryption based on Standard RSA with OAEP
+
+",linux,"DH, AW, TO, PIA"
+"
+
+   Anti-forensic steganography using multi-bit MER with flexible bit location
+
+",N/A,"DH, TO"
+"
+
+   Countering Anti-Forensics of Lateral Chromatic Aberration
+
+",N/A,TO
+"
+
+   A Survey On Anti-Forensics Techniques
+
+",N/A,"TO, AT, DH"
+"
+
+   Analysis of VMware Virtual Machine in Forensics and Anti-Forensics Paradigm
+
+",Windows,"DH, PIA, AW"
+"
+
+   Cryptographic key protection against FROST for mobile devices
+
+",Android,N/A
+"
+
+   Correlating CDR with other data sources Succeeding against Anti-Forensics
+
+",N/A,N/A
+"
+
+   How to Decrypt PIN-Based Encrypted Backup Data of Samsung Smartphones
+
+","Android, Windows",DH
+"
+
+   Video content authentication techniques a comprehensive survey
+
+",N/A,N/A
+"
+
+   Alleviation of Quantization Artifact using Anti-Forensic in Image Processing
+
+",N/A,TO
+"
+
+   Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",N/A,DH
+"
+
+   The Forensic Analysis of a False Digital Alibi
+
+",Windows,"TO, DH, AW"
+"
+
+   Determining removal of forensic artefacts using the USN change journal
+
+",Windows,"DH, AW"
+"
+
+   Forensic identification of resampling operators A semi non-intrusive approach
+
+",N/A,TO
+"
+
+   PROTECTION AGAINST REVERSE ENGINEERING IN DIGITAL CAMERAS
+
+",N/A,TO
+"
+
+   A Hierarchical Visibility theory for formal digital investigation of anti-forensic attacks
+
+",N/A,"DH, TO, AW"
+"
+
+   Novel Anti-forensics Approaches for Smart Phones
+
+",Android,AW
+"
+
+   A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System
+
+",linux,"TO, DH, PIA"
+"
+
+   CONCEALABILITY-RATE-DISTORTION TRADEOFF IN IMAGE COMPRESSION ANTI-FORENSICS
+
+",N/A,AW
+"
+
+   Android anti-forensics through a local paradigm
+
+",Android,"TO, AW, DH"
+"
+
+   A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",N/A,"AT, DH, AW, TO"
+"
+
+   Anti-Forensics The Next Step in Digital Forensics Tool Testing
+
+",Windows,"AT, DH, TO, AW"
+"
+
+   A Novel Anti-Forensics Technique for the Android OS
+
+",Android,"AW, DH"
+"
+
+   Android Anti-forensics Modifying CyanogenMod
+
+",Android,"DH, AT, TO"
+"
+
+   WAVELET-BASED IMAGE COMPRESSION ANTI-FORENSICS
+
+",N/A,TO
+"
+
+   Android Malware Forensics Reconstruction of Malicious Events
+
+",Android,"PIA, TO, AT"
+"
+
+   EXPOSING IMAGE FORGERY THROUGH THE DETECTION OF CONTRAST ENHANCEMENT
+
+",N/A,TO
+"
+
+   Forensic Analysis of Wickr Application on Android Devices
+
+",Android,TO
+"
+
+   Anti-forensics with a small army of exploits
+
+",Windows,"AW, DH, AT,TO"
+"
+
+   Digital Forensics Latest Challenges and Response
+
+","Windows, Linux, macOS, Android, iOS","TO, DH, AW, AT"
+"
+
+   MIXED-STRATEGY NASH EQUILIBRIUM IN THE CAMERA SOURCE IDENTIFICATION GAME
+
+",N/A,TO
+"
+
+   Forensic Artifacts Left By Virtual Disk Encryption Tools
+
+",Windows,DH
+"
+
+   UNDETECTABLE IMAGE TAMPERING THROUGH JPEG COMPRESSION ANTI-FORENSICS
+
+",N/A,TO
+"
+
+   Malware Forensics Discovery of the Intent of Deception
+
+",N/A,"AT, DH"
+"
+
+   A new anti-forensic tool based on a simple data encryption scheme
+
+","Windows, Linux","DH, TO"
+"
+
+   A New Technique for Removing Forensically Detectable Traces from Digital Images
+
+",N/A,TO
+"
+
+   The VAD tree A process-eye view of physical memory
+
+",Windows,DH
+"
+
+   ANTI-FORENSICS FOR FRAME DELETION/ADDITION IN MPEG VIDEO
+
+",N/A,TO
+"
+
+   Teaching Digital Forensics Techniques Within Linux Environments
+
+",linux,"PIA, DH, AT"
+"
+
+   Automatic, Selective and Secure Deletion of Digital Evidence
+
+",Windows,"AW, AT, DH"
+"
+
+   A Modified Anti-Forensic Technique for Removing Detectable Traces from Digital Images
+
+",N/A,TO
+"
+
+   On the Construction of a False Digital Alibi on the Android OS
+
+",Android,"TO, AW, PIA"
+"
+
+   Defense Technology of Anti Forensic
+
+",,"DH, TO, AW"
+"
+
+   Formal Digital Investigation of Anti-forensic Attacks
+
+",N/A,"AT, DH, AW, TO"
+"
+
+   iOS anti-forensics How can we securely conceal, delete and insert data?
+
+",iOS,"TO, AW, DH"
+"
+
+   Asynchronous Forensic Investigative Approach to Recover Deleted Data from Instant Messaging Applications
+
+",Android,N/A
+Survey  of  data  remaining  on  second  hand memory  cards  in  the  UK  ?,"Android, Windows",N/A
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",N/A,TO
+"
+   Generating Higher-Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask
+",N/A,AAF
+"
+   Improving JPEG Image Anti-forensics
+",N/A,TO
+"
+   New Approach on Steganalysis Reverse-Engineering based Steganography SW Analysis
+",N/A,AT
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",N/A,TO
+"
+   Anti-Forensics of Contrast Enhancement in Digital Images
+",N/A,TO
+"
+   Forensics and counter anti-forensics of video inter-frame forgery
+",N/A,TO
