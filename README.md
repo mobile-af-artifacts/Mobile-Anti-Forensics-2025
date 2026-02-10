@@ -2,7 +2,7 @@
 
 This repository contains the datasets, figures, and supplementary analysis files used in the study:
 
-**"Understanding Mobile Anti-Forensics: Techniques, Evidence Persistence, and the Future of Digital Forensics" (2025)**
+**"SoK: Anti-Forensics Evolution, Platform Coverage, and Mobile Residual Evidence" (2026)**
 
 ---
 
