@@ -20,8 +20,8 @@ All data files in this repository directly support the quantitative analyses and
 | Section | Description | Files |
 |----------|--------------|-------|
 | **RQ1 — Anti-Forensic Techniques Examined** | Datasets related to AF taxonomy, extraction outputs, high-level categories, domain-level publication patterns, and yearly trends. | `master_paper.xlsx`, `master_paper.csv`, `AAF_extraction_output.csv`, `Domains.csv`, `publishers_domain_distribution_with_CV.csv`, `subcategory_pgfplots_data_top15.csv`, `category_yearly_trends.csv` |
-| **RQ2 — Platform and Device Focus** | Data showing platform/device distribution, category mix, and yearly research trends. | `rq2_device_type_counts.csv`, `rq2_platform_totals_unique_papers.csv`, `rq2_category_mix_by_platform_percent.csv`, `rq2_device_type_share_by_year.csv` |
-| **RQ3 — Residual Forensic Artifacts on Mobile Devices** | Data mapping residual artifacts, their storage locations, and platform-level persistence. | `RQ3_mobile_stack_counts.csv`, `RQ3_category_by_type_counts.csv`, `RQ3_platform_by_type_counts.csv`, `RQ3_mobile_long.csv`, `RQ3_mobile_matrix_clean.xlsx` |
+| **RQ2 — Platform and Device Focus** | Data showing platform/device distribution, category distribution across platforms, and percentage-based heatmap data for visualization. | `device_type_counts.csv`, `rq2_platform_totals_unique_papers.csv`, `category_by_platform_copy.csv`, `cell5_pct_plot_percent_heatmap.csv` |
+| **RQ3 — Residual Forensic Artifacts on Mobile Devices** | Data mapping residual artifacts, their storage locations, platform-level persistence, and artifact-technique relationships across mobile studies. | `mobile-artifacts-28-studies.csv`, `RQ3_mobile_artifacts_studies_18.csv`, `RQ3_mobile_stack_counts.csv`, `RQ3_platform_by_type_counts.csv`, `RQ3_store_by_platform_Android_iOS_only.csv`, `RQ3_Figure7_store_by_bucket_counts.csv`, `Location_bucket_count.csv`, `RQ3_table6_counts.csv`, `RQ3_table6_pairs_long.csv` |
 
 Each dataset is cited within the manuscript and directly supports a corresponding figure or table in the published paper.
 
