@@ -45,7 +45,7 @@ Each dataset is cited within the manuscript and directly supports a correspondin
 
 ## Data Format and Usage
 
-All datasets are provided in `.csv` or `.xlsx` format and can be analyzed directly in **Python (pandas)**, **R**, or **Excel**.  
+All datasets are provided in `.csv` format and can be analyzed directly in **Python (pandas)**, **R**, or **Excel**.  
 Column names are self-descriptive and correspond to variables referenced in the paper.
 
 Example (Python):
