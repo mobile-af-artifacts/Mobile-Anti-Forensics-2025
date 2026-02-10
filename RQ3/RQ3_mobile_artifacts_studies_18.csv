@@ -1,0 +1,118 @@
+﻿paper_id,title,year,platforms,platform_flag,technique_category_present,artifact,file_type,location_bucket,persistence,acquisition_condition,rooted_or_jailbroken,eviedence
+001,Forensic analysis of ephemeral messaging applications: Disappearing messages or evidential data?,2023,Android,"Android, iOS","AW, TO","msgstore.db, ChatStorage.sqlite, arroyo.db, Cache4.db, ViewOnce/.nomedia, 000003.log, preferences.plist (iOS), metadata (UFED Cloud Analyzer), WhatsApp OTV blurred thumbnail","SQLite/WAL, Backup/Cloud, Other","App, Backup/cloud","RP, BKP","logical, physical",no,"E1: Retrieved deleted rows from db-wal temporary files
+
+E2: Located expire_timestamp in msgstore.db table
+
+E3: Verified via Cellebrite Reader export"
+002,Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool,2024,Android,Android,DH,"DCIM folder,
+    ADB dumpsys logs,
+    audio logs,",Logs,OS ,NR,logical,,"E1: Observed dumpsys audio RecordActivityMonitor entries
+
+E2: Observed dumpsys camera CONNECT/DISCONNECT events"
+003,Experimental Evaluation of e¬∑MMC Data Recovery,2022,Android,Android,AW,"SMS messages,
+    userdata partition data",Other ,OS ,RP,physical,,"E1: Observed recovery unchanged after repeated power cycles
+E2: Recovered raw-flash data after Secure Trim; power-cycled
+E3: Observed recovery unchanged after >1 hour, power cycles"
+004,A forensic analysis of streaming platforms on Android OS,2023,"Android, iOS","Android,iOS",AW,"recent_searches.xml,
+    banner.xml,
+    recently_watched.xml,
+    MANIFEST-000002,
+    zeroprefixparsed.cache,
+    exo files,
+    mqttlog_eventn.txt,
+    SubredditListingKey,
+    image_manager_disk_cache","FS-metadata, XML/plist, Cache/Thumbnails, Other, Logs","App, OS",NR,physical,yes,"E1: Compared artifacts after cache-clear; no reboot/uninstall tested
+E2: Matched file deletion timestamps to cache-clear event
+E3: Attributed missing data to TRIM; no reboot test"
+005,Analysis of Autopsy Mobile Forensic Tools against Unsent Messages on WhatsApp Messaging Application,2020,Android,Android,AW,"deleted_chat_job,
+    deleted_messages_ids_view,
+    deleted_messages_view,
+    message,
+    message_revoked,
+    messages",SQLite/WaL,App,NR,filesystem,yes,"E1: Observed WhatsApp traces in extracted database one week later
+E2: Checked database after extraction; persistence not further evaluated"
+006,An Android Case Study on Technical Anti-Forensic Challenges of WhatsApp Application,2020,Android,Android,AW,"deleted messages,
+    timestamps,
+    contact list information"," Logs, Others","App, OS",NR,NR,yes,"E1: Observed capture via notification listener; persistence not tested
+E2: Observed storage in app database; no reboot/uninstall tested"
+007,Android Mobile Forensic Analyzer for Stegno data,2015,Android,Android,DH,"stegno data,
+    images,
+    audio files,
+    video files
+  `",Cache/Thumbnails,Ext,RP,logical,,E1: Observed stego scan results; no reboot/uninstall tested
+008,Anti-forensics in ext4: On secrecy and usability of timestamp-based data hiding,2018,Android/Linux,Android/linux,"DH, AT","ext4 timestamps,
+    i_atime_extra,
+    i_crtime_extra",FS-metadata,OS,RP,,,"E1: Analyzed ext4 inode timestamps; persistence tests not reported
+E2: Observed delete leaves timestamp-extra fields unchanged"
+009,Analyzing Android Application in Real-time at Kernel Level,2017,,Linux,"DH, AW","SMS received broadcast event,
+    zjsms.txt,
+    zjphonecall.txt",FS-metadata,OS,NR,NR,NR,E1: Parsed kernel-level syscall logs to reconstruct behavior graph 
+010,Cryptographic key protection against FROST for mobile devices,2017,Android,Android,DH,"cryptographic key,
+    command line parameters",Other,OS ,"Vol, RP",logical,NR,"E1: Compared RAM dumps; observed key area overwritten on reboot
+E2: Compared post-reboot RAM dump; observed retained remanence bytes"
+011,How to Decrypt PIN-Based Encrypted Backup Data of Samsung Smartphones,2018,Android,Android,DH,"Manifest.exml,
+    .edb,
+    .ebin,
+    .senc,
+    .apk,
+    .exml,
+    .json,
+    .conf","XML/plist, Other",Backup/Cloud,BKP,filesystem,NR,"E1: Identified Manifest.exml unique to PIN-based Smart Switch backups
+
+E2: Observed backup data transferred via USB, stored as final PC backup"
+012,Novel Anti-forensics Approaches for Smart Phones,2012,Android,Android,"AW, TO","USBlyzer logs,
+    logcat logs,
+    contact list data"," Logs, Others", OS,NR,NR,NR,"E1: Observed Logcat entries listing tool activity; persistence untested
+E2: Observed provider access events in logs; persistence untested
+E3: Observed copy/delete pattern described; no recovery evaluated
+E4: Observed deletion/lock behavior described; no reboot/uninstall tested"
+013,Android anti-forensics through a local paradigm,2010,Android,Android,"AW, TO, DH","SMS/MMS database,
+    call log,
+    multimedia gallery,
+    export.xml,
+    private folder","SQLite/WAL, Other, XML/plist",App,NR,filesystem,yes,"E1: Observed private-folder storage; persistence tests not reported
+E2: Observed private-folder storage described; persistence not evaluated
+E3: Compared database size changes in table; persistence untested
+E4: Compared database size changes in table; persistence untested
+E5: Compared post-uninstall recovery; private-folder contents not recoverable"
+014,Android Anti-forensics: Modifying CyanogenMod,2014,Android,Android,"AT, TO","contact list,
+    content provider logs,
+    alternate databases,
+    USB debugging state,
+    hardcoded false contact list","SQLite/WAL, Logs","App, OS",NR,logical,yes,"E1: Observed system log: caller program and query arguments.
+E2: Observed broadcast intent extras for USB/ADB state changes.
+E3: Identified alternate contacts SQLite database used for Cellebrite.
+E4: Identified alternate contacts SQLite database used for XRY."
+015,On the Construction of a False Digital Alibi on the Android OS,2011,Android,Android,"TO, AW","/data/data/com.facebook.katana,
+    events.txt,
+    InjectAgent.jar","Logs, Others","App, Ext, OS","UR, VOL",NR,NR,"E1: Observed app data created on install; removed on uninstall
+E2: Observed SD-card data not removed on uninstall
+E3: Observed temp artifact copied then removed on exit
+E4: Observed RAM-only system logs; reboot erases entries"
+016,iOS anti-forensics: How can we securely conceal,2014,iOS,iOS,"AW, TO, DH","journal file,
+    IMG_0001.JPG,
+    IMG_0005.JPG,
+    thumbnails","Cache/Thumbnails, FS-metadata, Others",OS ,RP,filesystem,yes,"E1: Observed reboot: modified-key media showed only default icons
+E2: Observed thumbnails missing; camera roll showed only default icons
+E3: Identified insertion detection risk; paper stresses file metadata edits
+E4: Observed journal lacked procedure traces; per-file keys unrecoverable"
+017,Asynchronous Forensic Investigative Approach to Recover Deleted Data from Instant Messaging Applications,2020,Android,Android,"AW, DH, AT","Write-Ahead-Log (WAL),
+    msgstore.db.crypt12,
+    Shared URLs,
+    Recently shared images,
+    Call logs,
+    Deleted messages with timestamps,
+    Random group messages with participant information",SQLite/WAL,App,RP,physical,yes,"E1: Observed WhatsApp WAL persists after system shutdown
+E2: Recovered deleted messages from WAL; persistence not tested
+E3: Carved images from WAL; persistence beyond acquisition untested"
+018,"Vide-vault app identification and extraction system for ios de-
+vices",2020,iOS,iOS,DH,"App SQLite databases
+Vault app media artifacts
+Thumbnails","SQLite/WAL, Cache/Thumbnails",App,NR,lolgical,yes,"E1: Extracted app database; no reboot/uninstall persistence tested
+E2: Recovered artifacts from app storage; persistence not evaluated
+E3: Identified cloud image URL in database; persistence untested
+E4: Extracted SQLite evidence; no reboot/uninstall persistence tested
+E5: Observed unencrypted stored images; persistence not evaluated
+E6: Recovered audio files from app storage; persistence untested
+E7: Observed encrypted decoy artifacts; persistence not evaluated
+E8: Extracted plist fields; no reboot/uninstall persistence claimed"
