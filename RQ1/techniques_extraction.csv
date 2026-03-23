@@ -1,0 +1,4588 @@
+﻿title,published_year,technique,subcategory,category,publishers
+"
+
+ Discovering spoliation of evidence through identifying traces on deleted files  in macOS
+
+",2023,Permanent file deletion,File wiping,AW,Elsevier
+"
+
+ Discovering spoliation of evidence through identifying traces on deleted files  in macOS
+
+",2023,Recent file list clearing,Metadata wiping,AW,Elsevier
+"
+
+ Discovering spoliation of evidence through identifying traces on deleted files  in macOS
+
+",2023,Specific forensic artifact,File wiping,AW,Elsevier
+"
+
+ Discovering spoliation of evidence through identifying traces on deleted files  in macOS
+
+",2023,log deletion,Log wiping,AW,Elsevier
+"
+
+ Identification of data wiping tools based on deletion patterns in ReFS $Logfile
+
+",2023,Disappearing messages,Data obscurity,TO,Elsevier
+"
+
+ Identification of data wiping tools based on deletion patterns in ReFS $Logfile
+
+",2023,Rollback Disappearing Date,Log manipulation,TO,Elsevier
+"
+
+ Identification of data wiping tools based on deletion patterns in ReFS $Logfile
+
+",2023,Rollforward Disappearing Date,Log manipulation,TO,Elsevier
+"
+
+ Identification of data wiping tools based on deletion patterns in ReFS $Logfile
+
+",2023,View Once (OTV) media,Data obscurity,TO,Elsevier
+"
+
+ Data remnants analysis of document files in Windows: Microsoft 365 as a case study
+
+",2023,Data wiping,Generic data wiping,AW,Elsevier
+"
+
+ Data remnants analysis of document files in Windows: Microsoft 365 as a case study
+
+",2023,File deletion,File wiping,AW,Elsevier
+"
+
+ Data remnants analysis of document files in Windows: Microsoft 365 as a case study
+
+",2023,Permanent directory deletion,File wiping,AW,Elsevier
+"
+
+ Data remnants analysis of document files in Windows: Microsoft 365 as a case study
+
+",2023,Permanent file deletion,File wiping,AW,Elsevier
+"
+
+ Hit and run: Forensic vehicle event reconstruction through driver-based cloud data from Progressive‚Äö√Ñ√¥s snapshot application
+
+",2023,Deletion of known artifacts,File wiping,AW,Elsevier
+"
+
+ Hit and run: Forensic vehicle event reconstruction through driver-based cloud data from Progressive‚Äö√Ñ√¥s snapshot application
+
+",2023,Permanent file deletion,File wiping,AW,Elsevier
+"
+
+ Hit and run: Forensic vehicle event reconstruction through driver-based cloud data from Progressive‚Äö√Ñ√¥s snapshot application
+
+",2023,Removal of all studied artifacts,Generic data wiping,AW,Elsevier
+"
+
+ Hit and run: Forensic vehicle event reconstruction through driver-based cloud data from Progressive‚Äö√Ñ√¥s snapshot application
+
+",2023,logs (SANS DFIR poster traces),Log wiping,AW,Elsevier
+"
+
+ Hit and run: Forensic vehicle event reconstruction through driver-based cloud data from Progressive‚Äö√Ñ√¥s snapshot application
+
+",2023,logs (SDRF),Log wiping,AW,Elsevier
+"
+
+ Evaluating Commercial Counter-Forensic Tools
+
+",2024,"  Fake location data
+  ",Data fabrication,TO,Elsevier
+"
+
+ Time for Truth: Forensic Analysis of NTFS Timestamps
+
+",2005,File renaming,Data obscurity,TO,Elsevier
+"
+
+ Time for Truth: Forensic Analysis of NTFS Timestamps
+
+",2005,File wiping,File wiping,AW,Elsevier
+"
+
+ Time for Truth: Forensic Analysis of NTFS Timestamps
+
+",2005,Log wiping,Log wiping,AW,Elsevier
+"
+
+ Time for Truth: Forensic Analysis of NTFS Timestamps
+
+",2005,Pagefile wiping,File wiping,AW,Elsevier
+"
+
+ Time for Truth: Forensic Analysis of NTFS Timestamps
+
+",2005,Registry wiping,Registry wiping,AW,Elsevier
+"
+
+ Time for Truth: Forensic Analysis of NTFS Timestamps
+
+",2005,Unallocated space wiping,Disk wiping,AW,Elsevier
+"
+
+ NULL Byte Injection: Anti-Forensic Technique for Data Hiding in FAT32 File System
+
+",2021,Direct MFT timestamp manipulation,Log manipulation,TO,ACM
+"
+
+ NULL Byte Injection: Anti-Forensic Technique for Data Hiding in FAT32 File System
+
+",2021,Timestamp forgery,Log manipulation,TO,ACM
+"
+
+ NULL Byte Injection: Anti-Forensic Technique for Data Hiding in FAT32 File System
+
+",2021,Timestomping,Log manipulation,TO,ACM
+"
+
+ Analyzing Security Vulnerability and Forensic Investigation of ROS2: A Case Study
+
+",2022,NULL Byte Injection,Forensic software integrity attacks,AT,ACM
+"
+
+ Forget About It: Batched Database Sanitization
+
+",2022,Log wiping,Log wiping,AW,ACM
+"
+
+ Forensic Trace Analysis for MP3 based Stego-Malware: Exemplary Study for Stego-Algorithm and Capacity Attribution to derive YARA Rules for Malware Identification
+
+",2024,Data erasure,Generic data wiping,AW,ACM
+"
+
+ Forensic Trace Analysis for MP3 based Stego-Malware: Exemplary Study for Stego-Algorithm and Capacity Attribution to derive YARA Rules for Malware Identification
+
+",2024,Data wiping,Generic data wiping,AW,ACM
+"
+
+ Forensic Trace Analysis for MP3 based Stego-Malware: Exemplary Study for Stego-Algorithm and Capacity Attribution to derive YARA Rules for Malware Identification
+
+",2024,Sanitization,Generic data wiping,AW,ACM
+"
+
+ Forensic Trace Analysis for MP3 based Stego-Malware: Exemplary Study for Stego-Algorithm and Capacity Attribution to derive YARA Rules for Malware Identification
+
+",2024,Secure deletion,File wiping,AW,ACM
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2024,Audio steganography,Audio steganography,DH,ACM
+"
+
+ Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool
+
+",2017,Data Pooling,Data obscurity,TO,IEEE
+"
+
+ Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool
+
+",2017,Dummy HDDs,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool
+
+",2017,Hash Collisions,Hash value integrity attacks,AT,IEEE
+"
+
+ Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool
+
+",2017,Loop References,Data obscurity,TO,IEEE
+"
+
+ Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool
+
+",2017,Manipulating File Signatures,Filesystem manipulation,DH,IEEE
+"
+
+ Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool
+
+",2017,Manipulating MACE Times,Log manipulation,TO,IEEE
+"
+
+ Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool
+
+",2017,Non-Standart RAID‚Äö√Ñ√¥ed Disks,Hard disk manipulation,DH,IEEE
+"
+
+ Advanced Industrial Espionage: Mobile Device as Anti-Forensic and Anonymization Tool
+
+",2017,Restricted Filenames,Filesystem manipulation,DH,IEEE
+"
+
+ AfterImage: Evading Traditional Indicator of Compromise (IOC) Blocking
+
+",2025,Forensically resistant configuration,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ AfterImage: Evading Traditional Indicator of Compromise (IOC) Blocking
+
+",2025,Hybrid encryption,Encryption,DH,IEEE
+"
+
+ AfterImage: Evading Traditional Indicator of Compromise (IOC) Blocking
+
+",2025,"Zero trust principle
+  ``",Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ AfterImage: Evading Traditional Indicator of Compromise (IOC) Blocking
+
+",2025,`   Anonymous connection,Proxy server,TO,IEEE
+"
+
+ An Investigation into the Efficacy of Three Erasure Tools under Windows 7
+
+",2023,Automated proxy switching,Proxy server,TO,IEEE
+"
+
+ An Investigation into the Efficacy of Three Erasure Tools under Windows 7
+
+",2023,IP address dissociation,IP address spoofing,TO,IEEE
+"
+
+ An Investigation into the Efficacy of Three Erasure Tools under Windows 7
+
+",2023,Proxy jumping,Proxy server,TO,IEEE
+"
+
+ An Overview on Handling Anti Forensic Issues in Android Devices Using Forensic Automator Tool
+
+",2010,File wiping,File wiping,AW,ADFC
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Degaussing,Disk degaussing / destruction techniques,AW,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Disk,Hard disk manipulation,DH,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Encryption,Encryption,DH,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,File wiping,File wiping,AW,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,IP address spoofing,IP address spoofing,TO,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Log manipulation,Log manipulation,TO,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Metadata manipulation,Metadata wiping,AW,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Network-based hiding,Network-based data hiding,DH,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,P2P networking,P2P networking,TO,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Proxy servers,Proxy server,TO,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Registry wiping,Registry wiping,AW,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,Steganography,Steganography,DH,IEEE
+"
+
+ Analyzing Edge IoT Digital Forensics Tools: Cyber Attacks Reconstruction and Anti-Forensics Enhancements
+
+",2022,partition wiping,Partition Wiping,AW,IEEE
+"
+
+ Anti-Forensic Challenges in Digital Forensics Investigations: An Overview of Techniques and Tools
+
+",2023,Data wiping,Generic data wiping,AW,IEEE
+"
+
+ Anti-Forensic Challenges in Digital Forensics Investigations: An Overview of Techniques and Tools
+
+",2023,Encrypting data,Encryption,DH,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Altering file extensions,Filesystem manipulation,DH,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Anti-reverse engineering,Anti-reverse engineering,AT,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Attacks against the integrity of investigating parties,Investigator integrity attacks,AT,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Data Encryption,Encryption,DH,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Disk,Hard disk manipulation,DH,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Disk Degaussing,Disk degaussing / destruction techniques,AW,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,File Wiping,File wiping,AW,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,IP address spoofing,IP address spoofing,TO,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Metadata Manipulation,Metadata wiping,AW,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Partition Wiping,Partition Wiping,AW,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Peer-to-peer networking,P2P networking,TO,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Program packers,Program packers,AT,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Registry Wiping,Registry wiping,AW,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Relocation of data,Hidden partition utilization,DH,IEEE
+"
+
+ Anti-Forensic Deepfake Personas and How To Spot Them
+
+",2024,Steganography,Steganography,DH,IEEE
+"
+
+ BDC-GAN: Bidirectional Conversion Between Computer-Generated and Natural Facial Images for Anti-Forensics
+
+",2022,Semantic adversarial attack on deepfake detectors,Adversarial example (evasion),AAF,IEEE
+"
+
+ Comparative Analysis of Recovery Tools For Digital Forensic Evidence Using NIST Framework 800-101 R1
+
+",2022,Bidirectional conversion between computer-generated and natural facial images,Synthetic evidence fabrication,AAF,IEEE
+"
+
+ Comparative Analysis of Recovery Tools For Digital Forensic Evidence Using NIST Framework 800-101 R1
+
+",2022,Black-box attack,Adversarial example (evasion),AAF,IEEE
+"
+
+ Comparative Analysis of Recovery Tools For Digital Forensic Evidence Using NIST Framework 800-101 R1
+
+",2022,Content encoding,Steganography,DH,IEEE
+"
+
+ Comparative Analysis of Recovery Tools For Digital Forensic Evidence Using NIST Framework 800-101 R1
+
+",2022,Image regeneration independent of existing forensic methods,AI-generated synthetic data,,IEEE
+"
+
+ Comparative Analysis of Recovery Tools For Digital Forensic Evidence Using NIST Framework 800-101 R1
+
+",2022,Noise encoding,Steganography,DH,IEEE
+"
+
+ Data Wiping Tool: ByteEditor Technique
+
+",2021,ByteEditor Wiping,File wiping,AW,IEEE
+"
+
+ Data Wiping Tool: ByteEditor Technique
+
+",2021,Randomized Data Wiping,Generic data wiping,AW,IEEE
+"
+
+ Deployment and Detection of Anti-Forensics Shredding Technique in Android Mobile Devices
+
+",2023,File wiping,File wiping,AW,IEEE
+"
+
+ Deployment and Detection of Anti-Forensics Shredding Technique in Android Mobile Devices
+
+",2023,Shredding (permanent file,File wiping,AW,IEEE
+"
+
+ Deployment and Detection of Anti-Forensics Shredding Technique in Android Mobile Devices
+
+",2023,folder deletion),Data obscurity,TO,IEEE
+"
+
+ DETECTABLE TAMPERING OF JPEG ANTI-FORENSICS
+
+",2012,JPEG anti-forensics via dithering signal (DCT domain),Data obscurity,TO,IEEE
+"
+
+ Digital Forensic Tools: Comparison of Autopsy TSK and Forensic Explorer
+
+",2024,File Time Manipulation,Log manipulation,AW,IEEE
+"
+
+ Digital Forensic Tools: Comparison of Autopsy TSK and Forensic Explorer
+
+",2024,Meta Data Manipulation,Metadata wiping,DH,IEEE
+"
+
+ Digital Forensic Tools: Comparison of Autopsy TSK and Forensic Explorer
+
+",2024,Steganography,steganography,DH,IEEE
+"
+
+ Domain-Agnostic Document Authentication Against Practical Recapturing Attacks
+
+",2022,Recapturing attack (display-capture cycle),Data fabrication,TO,IEEE
+"
+
+ Domain-Agnostic Document Authentication Against Practical Recapturing Attacks
+
+",2022,Recapturing attack (print-scan cycle),Data fabrication,TO,IEEE
+"
+
+ ExS-GAN: Synthesizing Anti-Forensics Images via Extra Supervised GAN
+
+",2023,Average filtering anti-forensics,Data obscurity,TO,IEEE
+"
+
+ ExS-GAN: Synthesizing Anti-Forensics Images via Extra Supervised GAN
+
+",2023,Gaussian filtering anti-forensics,Data obscurity,TO,IEEE
+"
+
+ ExS-GAN: Synthesizing Anti-Forensics Images via Extra Supervised GAN
+
+",2023,Gaussian noise anti-forensics,Data fabrication,TO,IEEE
+"
+
+ ExS-GAN: Synthesizing Anti-Forensics Images via Extra Supervised GAN
+
+",2023,JPEG compression anti-forensics,Data fabrication,TO,IEEE
+"
+
+ ExS-GAN: Synthesizing Anti-Forensics Images via Extra Supervised GAN
+
+",2023,Median filtering anti-forensics,Data fabrication,TO,IEEE
+"
+
+ ExS-GAN: Synthesizing Anti-Forensics Images via Extra Supervised GAN
+
+",2023,USM sharpening anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Experimental Evaluation of ëMMC Data Recovery
+
+",2022,Sanitize (with Trim),Unallocated space wiping,AW,IEEE
+"
+
+ Experimental Evaluation of ëMMC Data Recovery
+
+",2022,Secure Erase,Disk wiping,AW,IEEE
+"
+
+ Experimental Evaluation of ëMMC Data Recovery
+
+",2022,Secure Trim,Unallocated space wiping,AW,IEEE
+"
+
+ Experimental Evaluation of ëMMC Data Recovery
+
+",2022,Trim,Unallocated space wiping,AW,IEEE
+"
+
+ Exploring the Use of Tails Operating System in Cybercrime and its Impact on Law Enforcement Investigations
+
+",2024,Brute force attack on encryption,Attacks Against Forensic Tools and Methods,AT,IEEE
+"
+
+ Exploring the Use of Tails Operating System in Cybercrime and its Impact on Law Enforcement Investigations
+
+",2024,Cold boot attack prevention,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Exploring the Use of Tails Operating System in Cybercrime and its Impact on Law Enforcement Investigations
+
+",2024,MAC spoofing,MAC address spoofing,TO,IEEE
+"
+
+ Exploring the Use of Tails Operating System in Cybercrime and its Impact on Law Enforcement Investigations
+
+",2024,Metadata hiding,Metadata manipulation,AW,IEEE
+"
+
+ GIMD-Net: An effective General-purpose Image Manipulation Detection Network, even under anti-forensic attacks
+
+",2021,Contrast enhancement anti-forensics,Data fabrication,TO,IEEE
+"
+
+ GIMD-Net: An effective General-purpose Image Manipulation Detection Network, even under anti-forensic attacks
+
+",2021,JPEG anti-forensics,Data fabrication,TO,IEEE
+"
+
+ GIMD-Net: An effective General-purpose Image Manipulation Detection Network, even under anti-forensic attacks
+
+",2021,Median filtering anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Identifying Bugs In Digital Forensic Tools
+
+",2013,Buffer overflow,Attacks Against Forensic Tools and Methods,AT,IEEE
+"
+
+ Identifying Bugs In Digital Forensic Tools
+
+",2013,Denial of service attacks,Attacks Against Forensic Tools and Methods,AT,IEEE
+"
+
+ Identifying Bugs In Digital Forensic Tools
+
+",2013,Fragile heuristics,Attacks Against Forensic Tools and Methods,AT,IEEE
+"
+
+ Identifying Bugs In Digital Forensic Tools
+
+",2013,Fuzzing,Attacks Against Forensic Tools and Methods,AT,IEEE
+"
+
+ Identifying Bugs In Digital Forensic Tools
+
+",2013,Manual targeted manipulation of data formats,Filesystem manipulation,DH,IEEE
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti Debugger,Anti-reverse engineering,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti Disassemblers,Anti-reverse engineering,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti Emulation,Anti-reverse engineering,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti Hardware,Anti-reverse engineering,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti Memory,Memory hiding,DH,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti Online Analysis,Anti-reverse engineering,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti Process,Anti-reverse engineering,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti Tools,Alerts to forensic tool usage,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Anti-Analysis,Anti-reverse engineering,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Packers and Protectors,Program packers,AT,ADFC
+"
+
+ Lessons Learned from an Investigation into the Analysis Avoidance Techniques of Malicious Software
+
+",2010,Rootkits,Direct kernel object manipulation (DKOM),DH,ADFC
+"
+
+ Supervised Anti-Forensic DNN to Detect Multiple-time Compressed JPEG Tampered Images
+
+",2024,Image splicing (copy-paste tampering),Data fabrication,TO,IEEE
+"
+
+ Supervised Anti-Forensic DNN to Detect Multiple-time Compressed JPEG Tampered Images
+
+",2024,JPEG compression anti-forensics (multiple compression),Data fabrication,TO,IEEE
+"
+
+ WiDeS: Wiping Detection using System-calls - An Anti-Forensic Resistant Approach
+
+",2023,Entropy-based detection,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ WiDeS: Wiping Detection using System-calls - An Anti-Forensic Resistant Approach
+
+",2023,File wiping,File wiping,AW,IEEE
+"
+
+ WiDeS: Wiping Detection using System-calls - An Anti-Forensic Resistant Approach
+
+",2023,Overwriting,File wiping,AW,IEEE
+"
+
+ WiDeS: Wiping Detection using System-calls - An Anti-Forensic Resistant Approach
+
+",2023,Secure-delete,File wiping,AW,IEEE
+"
+
+ WiDeS: Wiping Detection using System-calls - An Anti-Forensic Resistant Approach
+
+",2023,System-call monitoring,Alerts to forensic tool usage,AT,IEEE
+"
+
+ MISLGAN: AN ANTI-FORENSIC CAMERA MODEL FALSIFICATION FRAMEWORK USING A GENERATIVE ADVERSARIAL NETWORK
+
+",2018,Camera model falsification,Metadata manipulation,AW,IEEE
+"
+
+ MISLGAN: AN ANTI-FORENSIC CAMERA MODEL FALSIFICATION FRAMEWORK USING A GENERATIVE ADVERSARIAL NETWORK
+
+",2018,Forensic trace falsification,Data fabrication,TO,IEEE
+"
+
+ EVALUATING THE EFFICACY OF RGB-D CAMERAS FOR SURVEILLANCE
+
+",2013,3D stream manipulation (RGB-D anti-forensics),Data fabrication,TO,IEEE
+"
+
+ EVALUATING THE EFFICACY OF RGB-D CAMERAS FOR SURVEILLANCE
+
+",2013,Type I forgery (scene insertion of humans),GAN-based media forgery,AAF,IEEE
+"
+
+ EVALUATING THE EFFICACY OF RGB-D CAMERAS FOR SURVEILLANCE
+
+",2013,Type II forgery (behavior manipulation via skeleton deformation),GAN-based media forgery,AAF,IEEE
+"
+
+ Dual-Domain Generative Adversarial Network for Digital Image Operation Anti-forensics
+
+",2021,JPEG compression anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Dual-Domain Generative Adversarial Network for Digital Image Operation Anti-forensics
+
+",2021,Median filtering anti-forensics,Data fabrication,TO,IEEE
+"
+
+ FORENSICS VS. ANTI-FORENSICS: A DECISION AND GAME THEORETIC FRAMEWORK
+
+",2012,Frame deletion evidence hiding,Data fabrication,TO,IEEE
+"
+
+ Temporal Forensics and Anti-Forensics for Motion Compensated Video
+
+",2012,Frame addition anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Temporal Forensics and Anti-Forensics for Motion Compensated Video
+
+",2012,Frame deletion anti-forensics,Data fabrication,TO,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Analysis delay,Investigator integrity attacks,AT,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Bootable USB,Live distributions,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Compress,Filesystem manipulation,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Data destruction,Disk degaussing / destruction techniques,AW,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Data hiding,Steganography,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Degaussing,Disk degaussing / destruction techniques,AW,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Execute,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,HPA & DCO,Hard disk manipulation,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,KY FS,Steganographic filesystem,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Obfuscation,Data obscurity,TO,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Portable SW,Portable apps,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,RuneFS,Steganographic filesystem,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Slacker,Slack space hiding,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Steganography,Steganography,DH,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Trace minimization,Data obscurity,TO,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,VM (virtual machine),Virtualization,PIA,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Wiping,Generic data wiping,AW,IEEE
+"
+
+ A Conceptual Framework for Database Anti-forensics Impact Mitigation
+
+",2020,Wrapping,Encryption,DH,IEEE
+"
+
+ Multiple-Operation Image Anti-Forensics with WGAN-GP Framework
+
+",2019,Additive white Gaussian noise (AWGN) anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Multiple-Operation Image Anti-Forensics with WGAN-GP Framework
+
+",2019,Contrast enhancement (S-mapping) anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Multiple-Operation Image Anti-Forensics with WGAN-GP Framework
+
+",2019,Gamma correction anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Multiple-Operation Image Anti-Forensics with WGAN-GP Framework
+
+",2019,Gaussian blurring anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Multiple-Operation Image Anti-Forensics with WGAN-GP Framework
+
+",2019,JPEG compression anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Multiple-Operation Image Anti-Forensics with WGAN-GP Framework
+
+",2019,Median filtering anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Multiple-Operation Image Anti-Forensics with WGAN-GP Framework
+
+",2019,Unsharp masking sharpening anti-forensics,Data fabrication,TO,IEEE
+"
+
+ A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics
+
+",2021,Decalibration,Data fabrication,TO,springer
+"
+
+ A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics
+
+",2021,JPEG anti-forensics,Data fabrication,TO,springer
+"
+
+ A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics
+
+",2021,Median filtering,Data fabrication,TO,springer
+"
+
+ A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics
+
+",2021,Noise dither,Data fabrication,TO,springer
+"
+
+ A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics
+
+",2021,Perceptual DCT histogram smoothing,Data fabrication,TO,springer
+"
+
+ A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics
+
+",2021,Total variation-based deblocking,Data fabrication,TO,springer
+"
+
+ A framework of generative adversarial networks with novel loss for JPEG restoration and anti-forensics
+
+",2021,White Gaussian noise,Data fabrication,TO,springer
+"
+
+ Generative Adversarial Attacks Against Deep-Learning-Based Camera Model Identification
+
+",2019,Black-box attack,Adversarial example evasion (GAN-based),AAF,IEEE
+"
+
+ Generative Adversarial Attacks Against Deep-Learning-Based Camera Model Identification
+
+",2019,White-box attack,Adversarial example evasion (GAN-based),AAF,IEEE
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Data wiping,Generic data wiping,AW,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Encryption,Encryption,DH,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Event detection prevention,Data obscurity,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Fake data injection into swap files,Data fabrication,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Frame addition trace removal,Data fabrication,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Frame deletion trace removal,Data fabrication,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Image manipulation,Data fabrication,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Intra-prediction after tampering,Data fabrication,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,JPEG compression trace removal,Data fabrication,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Median filtering fingerprint removal,Data fabrication,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Memory analysis prevention,Memory hiding,DH,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Rootkits,Direct kernel object manipulation (DKOM),DH,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Selective data removal from Android OS,File wiping,AW,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Swap file header manipulation,Filesystem manipulation,DH,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Using legitimate applications for malicious intents,Data misdirection/misinformation/framing,TO,Elsevier
+"
+
+ A survey and research challenges of anti-forensics: Evaluation of game-theoretic models in simulation of forensic agents‚ behaviour
+
+",2020,Wavelet-based compression trace removal,Data fabrication,TO,Elsevier
+"
+
+ Game-Theoretic Decision Support for Cyber Forensic Investigations
+
+",2021,Data Encrypted,Encrypted data,PIA,MDPI
+"
+
+ Game-Theoretic Decision Support for Cyber Forensic Investigations
+
+",2021,Indicator Removal on Host,File wiping,AW,MDPI
+"
+
+ Game-Theoretic Decision Support for Cyber Forensic Investigations
+
+",2021,Modify Registry,Registry wiping,AW,MDPI
+"
+
+ Game-Theoretic Decision Support for Cyber Forensic Investigations
+
+",2021,Obfuscated Files or Information,File steganography,DH,MDPI
+"
+
+ Game-Theoretic Decision Support for Cyber Forensic Investigations
+
+",2021,Valid Accounts,Zombie accounts,TO,MDPI
+"
+
+ Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem
+
+",2006,Account hijacking,Trojan commands,TO,Elsevier
+"
+
+ Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem
+
+",2006,Archive,Hidden directories,DH,Elsevier
+"
+
+ Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem
+
+",2006,Data encapsulation,Encryption,DH,Elsevier
+"
+
+ Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem
+
+",2006,Disabling logs,Log wiping,AW,Elsevier
+"
+
+ Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem
+
+",2006,MACE alterations,Log manipulation,TO,Elsevier
+"
+
+ Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem
+
+",2006,Removing,Targeted artifact removal,AW,Elsevier
+"
+
+ Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem
+
+",2006,image bombs,Data misdirection/misinformation/framing,TO,Elsevier
+"
+
+ Arriving at an anti-forensics consensus: Examining how to define and control the anti-forensics problem
+
+",2006,wiping files,File wiping,AW,Elsevier
+"
+
+ Deleting collected digital evidence by exploiting a widely adopted hardware write blocker
+
+",2016,Data corruption,Generic data wiping,AW,Elsevier
+"
+
+ Deleting collected digital evidence by exploiting a widely adopted hardware write blocker
+
+",2016,Firmware modification,Forensic software integrity attacks,AT,Elsevier
+"
+
+ Deleting collected digital evidence by exploiting a widely adopted hardware write blocker
+
+",2016,Integrity attack,Forensic software integrity attacks,AT,Elsevier
+"
+
+ Deleting collected digital evidence by exploiting a widely adopted hardware write blocker
+
+",2016,Root access,Presence of anti-forensics tools/files/installation files,PIA,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Anti-reverse engineering,Anti-reverse engineering,AT,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Artifact wiping,File wiping,AW,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Attacks against forensic tools and processes,Forensic software integrity attacks,AT,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Attacks against investigator integrity,Investigator integrity attacks,AT,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Data contraception,Direct kernel object manipulation (DKOM),DH,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Encryption,Encryption,DH,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Filesystem manipulation,Filesystem manipulation,DH,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Hard disk manipulation,Hard disk manipulation,DH,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Memory hiding,Memory hiding,DH,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Network-based data hiding,Network-based data hiding,DH,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Program packers,Program packers,AT,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Proxy server,Proxy server,TO,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Steganography,Steganography,DH,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,Trail obfuscation,Data obscurity,TO,Elsevier
+"
+
+ Anti-forensics: Furthering digital forensic science through a new extended, granular taxonomy
+
+",2016,VPN tunneling,VPN tunneling,DH,Elsevier
+"
+
+ An improved median √î¬®√Öltering anti-forensics with better image quality and forensic undetectability
+
+",2019,MMedian filtering anti-forensics,Data fabrication,TO,springer
+"
+
+ An improved median √î¬®√Öltering anti-forensics with better image quality and forensic undetectability
+
+",2019,TV-based minimization,Data fabrication,TO,springer
+"
+
+ An improved median √î¬®√Öltering anti-forensics with better image quality and forensic undetectability
+
+",2019,Variational deconvolution,Data fabrication,TO,springer
+"
+
+ Anti-forensics of JPEG Compression Using Generative Adversarial Networks
+
+",2018,Blocking artifacts disguise,Data fabrication,TO,IEEE
+"
+
+ Anti-forensics of JPEG Compression Using Generative Adversarial Networks
+
+",2018,JPEG compression anti-forensic method,Data fabrication,TO,IEEE
+"
+
+ Anti-forensics of JPEG Compression Using Generative Adversarial Networks
+
+",2018,Noise dither introduction,Data fabrication,TO,IEEE
+"
+
+ Anti-forensics of JPEG Compression Using Generative Adversarial Networks
+
+",2018,Quantization artifacts disguise,Data fabrication,TO,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,API relocation,Anti-reverse engineering,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Anti-debugging,Anti-reverse engineering,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Anti-dump,Anti-reverse engineering,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Anti-trace,Anti-reverse engineering,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Code encryption,Program packers,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Code virtualization,Program packers,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,File integrity checking,Forensic software integrity attacks,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Hardware breakpoint detection,Anti-reverse engineering,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Integrity checking,Forensic software integrity attacks,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Obfuscated API function calls,Anti-reverse engineering,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Self-modifying code,Anti-reverse engineering,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Software breakpoint detection,Anti-reverse engineering,AT,IEEE
+"
+
+ UnSafengine64: A Safengine Unpacker for 64-Bit Windows Environments and Detailed Analysis Results on Safengine 2.4.0
+
+",2024,Virtual machine detection,Anti-reverse engineering,AT,IEEE
+"
+
+ On the Feasibility of Android Stegomalware: A Detection Study
+
+",2025,Code injection,Remote library injection,DH,University Repository
+"
+
+ On the Feasibility of Android Stegomalware: A Detection Study
+
+",2025,Information-hiding,Steganography,DH,University Repository
+"
+
+ On the Feasibility of Android Stegomalware: A Detection Study
+
+",2025,LSB steganography,Images steganography,DH,University Repository
+"
+
+ On the Feasibility of Android Stegomalware: A Detection Study
+
+",2025,Obfuscation,Data obscurity,TO,University Repository
+"
+
+ On the Feasibility of Android Stegomalware: A Detection Study
+
+",2025,Repackaging,Program packers,AT,University Repository
+"
+
+ Anti-Forensics with Steganographic File Embedding in Digital Image Using Genetic Algorithm
+
+",2022,Genetic algorithm optimization,Images steganography,DH,
+"
+
+ Anti-Forensics with Steganographic File Embedding in Digital Image Using Genetic Algorithm
+
+",2022,Hilbert curve,Steganography,DH,
+"
+
+ Anti-Forensics with Steganographic File Embedding in Digital Image Using Genetic Algorithm
+
+",2022,Least significant bit embedding,Images steganography,DH,
+"
+
+ Anti-Forensics with Steganographic File Embedding in Digital Image Using Genetic Algorithm
+
+",2022,Lempel Ziv Markov chain compression,File steganography,DH,
+"
+
+ Anti-Forensics with Steganographic File Embedding in Digital Image Using Genetic Algorithm
+
+",2022,Steganographic file embedding,File steganography,DH,
+"
+
+ Detection of Suspicious Timestamps in NTFS using Volume Shadow Copies
+
+",2021,Timestamp manipulation,Log manipulation,TO,MECS
+"
+
+ Detection of Suspicious Timestamps in NTFS using Volume Shadow Copies
+
+",2021,Timestomping,Log manipulation,TO,MECS
+"
+
+ A forensic analysis of streaming platforms on Android OS
+
+",2023,Cache clearing,Metadata wiping,AW,Elsevier
+"
+
+ Steganography and Computer Forensics - the art of hiding information: a systematic review
+
+",2022,File creation techniques,Filesystem manipulation,DH,ARIS
+"
+
+ Steganography and Computer Forensics - the art of hiding information: a systematic review
+
+",2022,Injection techniques,Remote library injection,DH,ARIS
+"
+
+ Steganography and Computer Forensics - the art of hiding information: a systematic review
+
+",2022,Steganography,Steganography,DH,ARIS
+"
+
+ Steganography and Computer Forensics - the art of hiding information: a systematic review
+
+",2022,Substitution techniques,Steganography,DH,ARIS
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Data wiping,Generic data wiping,AW,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Encryption,Encryption,DH,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,File header manipulation,Filesystem manipulation,DH,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Hash collision,Hash value integrity attacks,AT,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Hiding data in system areas,Hidden partition utilization,DH,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Log deletion or modification,Log wiping,AW,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Physical destruction,Disk degaussing / destruction techniques,AW,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Program packers,Program packers,AT,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Steganography,Steganography,DH,University Repository
+"
+
+ Taxonomy for Anti-Forensics Techniques & Countermeasures
+
+",2020,Timestamp modification,Log manipulation,TO,University Repository
+"
+
+ Analysis of Steganographic on Digital Evidence using General Computer Forensic Investigation Model Framework
+
+",2020,Steganography,Steganography,DH,IJACSA
+"
+
+ Data Sanitization Framework for Computer Hard Disk Drive: A Case Study in Malaysia
+
+",2019,Data sanitization,Generic data wiping,AW,IJACSA
+"
+
+ Data Sanitization Framework for Computer Hard Disk Drive: A Case Study in Malaysia
+
+",2019,Data wiping,Generic data wiping,AW,IJACSA
+"
+
+ Data Sanitization Framework for Computer Hard Disk Drive: A Case Study in Malaysia
+
+",2019,Overwrite technique,File wiping,AW,IJACSA
+"
+
+ SafePaint: Anti-forensic Image Inpainting with Domain Adaptation
+
+",2024,Anti-forensic image inpainting (SafePaint framework),Domain-Adapted Anti-Forensic Inpainting,AAF,ACM
+"
+
+ SafePaint: Anti-forensic Image Inpainting with Domain Adaptation
+
+",2024,Domain adaptation for anti-forensics,Domain-Adapted Anti-Forensic Inpainting,AAF,ACM
+"
+
+ SafePaint: Anti-forensic Image Inpainting with Domain Adaptation
+
+",2024,Region-wise optimization (RWSA module),Domain-Adapted Anti-Forensic Inpainting,AAF,ACM
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Anti-debugging (ptrace-based),Anti-reverse engineering,AT,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Anti-sandbox detection,Anti-reverse engineering,AT,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Binary packing (UPX,Program packers,AT,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Debug symbol removal (stripped binaries),Anti-reverse engineering,AT,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,File deletion (unlink,File wiping,AW,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Firewall manipulation (iptables),Data obscurity,TO,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Log,Log wiping,AW,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Persistence via cron jobs,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Persistence via init.d scripts,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Process injection,Remote library injection,DH,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Process renaming (PR_SET_NAME),Data obscurity,TO,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,Static linking,Anti-reverse engineering,AT,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,String encoding (obfuscation),Anti-reverse engineering,AT,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,config,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,custom packers),Program packers,AT,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,history removal,Metadata wiping,AW,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,rm,File wiping,AW,IEEE
+"
+
+ An Automated and Comprehensive Framework for IoT Botnet Detection and Analysis (IoT-BDA)
+
+",2021,rmdir),File wiping,AW,IEEE
+"
+
+ Identification of true speakers from disguised voices in anti-forensic scenarios using an efficient framework
+
+",2024,Electronic voice alteration,Data obscurity,TO,springer
+"
+
+ Identification of true speakers from disguised voices in anti-forensic scenarios using an efficient framework
+
+",2024,Non-electronic voice alteration,Data fabrication,TO,springer
+"
+
+ Identification of true speakers from disguised voices in anti-forensic scenarios using an efficient framework
+
+",2024,Voice disguise,Data fabrication,TO,springer
+"
+
+ Anti-forensics of fake stereo audio using generative adversarial network
+
+",2022,Fake stereo audio generation using GAN,GAN-Based Fake Stereo Audio Synthesis,AAF,springer
+"
+
+ A SMART Goal-based Framework for Privacy Preserving Embedded Forensic Investigations
+
+",2019,Access control,Encryption,DH,IEEE
+"
+
+ A SMART Goal-based Framework for Privacy Preserving Embedded Forensic Investigations
+
+",2019,Cryptography,Encryption,DH,IEEE
+"
+
+ A SMART Goal-based Framework for Privacy Preserving Embedded Forensic Investigations
+
+",2019,Data erasure,Generic data wiping,AW,IEEE
+"
+
+ A SMART Goal-based Framework for Privacy Preserving Embedded Forensic Investigations
+
+",2019,Encryption,Encryption,DH,IEEE
+"
+
+ A SMART Goal-based Framework for Privacy Preserving Embedded Forensic Investigations
+
+",2019,Steganography,Steganography,DH,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Covert channel communication,Network-based data hiding,DH,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Data overwriting,Generic data wiping,AW,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Evidence destruction,Generic data wiping,AW,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Header editing,Metadata manipulation,AW,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Log deletion,Log wiping,AW,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Log modification,Log manipulation,TO,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Secure data deletion,File wiping,AW,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Side-channel attack,Forensic software integrity attacks,AT,IEEE
+"
+
+ A Framework for Detecting Anti-forensics in Cloud Environment
+
+",2016,Timestamp scrambling,Log manipulation,TO,IEEE
+"
+
+ Anti-Forensics of Digital Image Compression
+
+",2011,Blocking artifact removal (anti-forensic deblocking),Data fabrication,TO,IEEE
+"
+
+ Anti-Forensics of Digital Image Compression
+
+",2011,DCT coefficient quantization fingerprint removal (JPEG anti-forensics),Data obscurity,TO,IEEE
+"
+
+ Anti-Forensics of Digital Image Compression
+
+",2011,DWT coefficient quantization fingerprint removal (Wavelet,Data obscurity,TO,IEEE
+"
+
+ Anti-Forensics of Digital Image Compression
+
+",2011,JPEG2000 anti-forensics),Data obscurity,TO,IEEE
+"
+
+ Anti-Forensics of Digital Image Compression
+
+",2011,SPIHT,Memory hiding,DH,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Customization of OS memory handling functions,Alerts to forensic tool usage,AT,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Detection of CFTs,Forensic software integrity attacks,AT,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Exploitation of CFTs,Data fabrication,TO,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Fabrication,Steganography,DH,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Hiding,Generic data wiping,AW,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Logical destruction,Disk degaussing / destruction techniques,AW,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Physical destruction,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Pollution,Data fabrication,TO,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Saturation,File wiping,AW,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Source elimination,Hidden partition utilization,DH,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Storage,Data fabrication,TO,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Transformation,P2P networking,TO,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Using external machines,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Using own machines,Virtualization,PIA,IEEE
+"
+
+ Counterfeiting and Defending the Digital Forensic Process
+
+",2015,Virtualization,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Anti-Forensics of Audio Source Identification Using Generative Adversarial Network
+
+",2019,"Confusing attack 
+   Misleading attack",Data fabrication,TO,IEEE
+"
+
+ Digital Image Forensic Approach to Counter the JPEG Anti-Forensic Attacks
+
+",2021,Deblocking operation,Data fabrication,TO,IEEE
+"
+
+ Digital Image Forensic Approach to Counter the JPEG Anti-Forensic Attacks
+
+",2021,Dithering operation,Data fabrication,TO,IEEE
+"
+
+ Digital Image Forensic Approach to Counter the JPEG Anti-Forensic Attacks
+
+",2021,Histogram smoothing,Data obscurity,TO,IEEE
+"
+
+ Digital Image Forensic Approach to Counter the JPEG Anti-Forensic Attacks
+
+",2021,JPEG compression anti-forensic techniques,Data obscurity,TO,IEEE
+"
+
+ SYNTHESIZING BLACK-BOX ANTI-FORENSICS DEEPFAKES WITH HIGH VISUAL QUALITY
+
+",2024,Adversarial noise injection,Black-Box Adversarial Deepfake Detector Evasion,AAF,IEEE
+"
+
+ SYNTHESIZING BLACK-BOX ANTI-FORENSICS DEEPFAKES WITH HIGH VISUAL QUALITY
+
+",2024,Adversarial sharpening masks,Black-Box Adversarial Deepfake Detector Evasion,AAF,IEEE
+"
+
+ Exploring Firmware‚Based Anti forensics in IoT Devices: Techniques and Implications
+
+",2024,Covert communication channels,Network-based data hiding,DH,springer
+"
+
+ Exploring Firmware‚Based Anti forensics in IoT Devices: Techniques and Implications
+
+",2024,Firmware rollback,Forensic software integrity attacks,DH,springer
+"
+
+ Exploring Firmware‚Based Anti forensics in IoT Devices: Techniques and Implications
+
+",2024,Rootkit injection,Direct kernel object manipulation (DKOM),DH,springer
+"
+
+ Exploring Firmware‚Based Anti forensics in IoT Devices: Techniques and Implications
+
+",2024,Secure boot bypass,Forensic software integrity attacks,AT,springer
+"
+
+ Exploring Firmware‚Based Anti forensics in IoT Devices: Techniques and Implications
+
+",2024,System call attacks,Forensic software integrity attacks,AT,springer
+"
+
+ Making Generated Images Hard To Spot: A Transferable Attack On Synthetic Image Detectors
+
+",2022,Adversarial example attacks,Transferable Synthetic-Image Detector Evasion via Trace Removal,AAF,springer
+"
+
+ Making Generated Images Hard To Spot: A Transferable Attack On Synthetic Image Detectors
+
+",2022,Adversarially trained generator,Transferable Synthetic-Image Detector Evasion via Trace Removal,AAF,springer
+"
+
+ Making Generated Images Hard To Spot: A Transferable Attack On Synthetic Image Detectors
+
+",2022,Falsifying forensic traces,Transferable Synthetic-Image Detector Evasion via Trace Removal,AAF,springer
+"
+
+ Making Generated Images Hard To Spot: A Transferable Attack On Synthetic Image Detectors
+
+",2022,GAN-based attacks,Transferable Synthetic-Image Detector Evasion via Trace Removal,AAF,springer
+"
+
+ Making Generated Images Hard To Spot: A Transferable Attack On Synthetic Image Detectors
+
+",2022,Removing forensic traces,Transferable Synthetic-Image Detector Evasion via Trace Removal,AAF,springer
+"
+
+ Making Generated Images Hard To Spot: A Transferable Attack On Synthetic Image Detectors
+
+",2022,Synthesizing forensic traces,Transferable Synthetic-Image Detector Evasion via Trace Removal,AAF,springer
+"
+
+ Making DeepFakes more spurious: evading deep face forgery detection via trace removal attack
+
+",2022,Noise fingerprint removal,Noise fingerprint removal,AAF,IEEE
+"
+
+ Making DeepFakes more spurious: evading deep face forgery detection via trace removal attack
+
+",2022,Spatial anomaly removal,Spatial anomaly removal,AAF,IEEE
+"
+
+ Making DeepFakes more spurious: evading deep face forgery detection via trace removal attack
+
+",2022,Spectral disparity removal,Spectral disparity removal,AAF,IEEE
+"
+
+ Making DeepFakes more spurious: evading deep face forgery detection via trace removal attack
+
+",2022,Trace Removal Attack (detector-agnostic),Trace Removal Attack (detector-agnostic),AAF,IEEE
+"
+
+ Black-Box Attack against GAN-Generated Image Detector with Contrastive Perturbation
+
+",2022,Black-box attack,Black-Box Adversarial Detector Evasion,AAF,Elsevier
+"
+
+ Black-Box Attack against GAN-Generated Image Detector with Contrastive Perturbation
+
+",2022,Contrastive perturbation,Black-Box Adversarial Detector Evasion,AAF,Elsevier
+"
+
+ Black-Box Attack against GAN-Generated Image Detector with Contrastive Perturbation
+
+",2022,GAN fingerprint removal,Black-Box Adversarial Detector Evasion,AAF,Elsevier
+"
+
+ Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces
+
+",2022,Adversarial examples,GAN-Based Synthetic Trace Synthesis,AAF,IEEE
+"
+
+ Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces
+
+",2022,Adversarial training,GAN-Based Synthetic Trace Synthesis,AAF,IEEE
+"
+
+ Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces
+
+",2022,Feature map modification,GAN-Based Synthetic Trace Synthesis,AAF,IEEE
+"
+
+ Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces
+
+",2022,GAN-based anti-forensic attack,GAN-Based Synthetic Trace Synthesis,AAF,IEEE
+"
+
+ Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces
+
+",2022,Synthetic forensic traces,GAN-Based Synthetic Trace Synthesis,AAF,IEEE
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Anti-forensic dither,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Block-shifted DCT,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Contrast enhancement anti-forensics,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,DCT histogram smoothing,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Deblocking,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Feature value optimization,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Gaussian noise addition,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Generative Adversarial Network (GAN) for contrast enhancement,GAN-Based Contrast-Enhancement Trace Suppression,AAF,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,JPEG anti-forensics,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Median filtering anti-forensics,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Noise addition in pixel domain,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Random dither,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Shrink and Zoom (SAZ),Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Total variation-based deblocking,Data obscurity,TO,springer
+"
+
+ Understanding digital image anti‚ forensics: an analytical review
+
+",2024,Unsharp Masking,Data obscurity,TO,springer
+"
+
+ A memory-based game-theoretic defensive approach for digital forensic investigators
+
+",2021,AFX2005 Rootkit,Presence of anti-forensics tools/files/installation files,PIA,Elsevier
+"
+
+ A memory-based game-theoretic defensive approach for digital forensic investigators
+
+",2021,Fu Rootkit,Presence of anti-forensics tools/files/installation files,PIA,Elsevier
+"
+
+ A memory-based game-theoretic defensive approach for digital forensic investigators
+
+",2021,FuTO-Enhanced Rootkit,Presence of anti-forensics tools/files/installation files,PIA,Elsevier
+"
+
+ A memory-based game-theoretic defensive approach for digital forensic investigators
+
+",2021,Hxdef084 Rootkit,Presence of anti-forensics tools/files/installation files,DH,Elsevier
+"
+
+ A memory-based game-theoretic defensive approach for digital forensic investigators
+
+",2021,Hxdef100 Rootkit,Presence of anti-forensics tools/files/installation files,DH,Elsevier
+"
+
+ Exploring Adversarial Fake Images on Face Manifold
+
+",2021,Combined latent and noise adversarial update,GAN-Manifold Adversarial Evasion,AAF,IEEE
+"
+
+ Exploring Adversarial Fake Images on Face Manifold
+
+",2021,Ensemble adversarial attacks,GAN-Manifold Adversarial Evasion,AAF,IEEE
+"
+
+ Exploring Adversarial Fake Images on Face Manifold
+
+",2021,Latent-space adversarial update,GAN-Manifold Adversarial Evasion,AAF,IEEE
+"
+
+ Exploring Adversarial Fake Images on Face Manifold
+
+",2021,Manifold-based adversarial fake image generation,GAN-Manifold Adversarial Evasion,AAF,IEEE
+"
+
+ Exploring Adversarial Fake Images on Face Manifold
+
+",2021,Noise-space adversarial update,GAN-Manifold Adversarial Evasion,AAF,IEEE
+"
+
+ Memory Forensics: Recovering Chat Messages and Encryption Master Key
+
+",2019,Data encryption,Encryption,DH,IEEE
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,AFTs for JPEG blocking artefacts removal,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,AFTs for double compression,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,AFTs for wavelet-based compression,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,AFTs of JPEG quantisation fingerprints removal,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Anti-forensics for chromatic aberrations,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Anti-forensics of colour filter array (CFA) pattern,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Anti-forensics resampling,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Countering camera identification,Data misdirection/misinformation/framing,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Generative adversarial network based,GAN-Based Forensic Trace Suppression,AAF,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Hi+D407stogram remapping,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Median filtering,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Trace hiding,Data obscurity,TO,IET
+"
+
+ Bibliography of digital image anti-forensics and anti-anti-forensics techniques
+
+",2019,Unsharp masking,Data obscurity,TO,IET
+"
+
+ Camera Trace Erasing
+
+",2020,Camera trace erasing,Data fabrication,TO,IEEE
+"
+
+ Improving the Security of Visual Challenges
+
+",2019,Forgery of visual challenges on fake video (copy-paste),Data fabrication,TO,ACM
+"
+
+ Improving the Security of Visual Challenges
+
+",2019,Forgery of visual challenges on old still frame,Data fabrication,TO,ACM
+"
+
+ Improving the Security of Visual Challenges
+
+",2019,Forgery of visual challenges on sequence of old frames,Data fabrication,TO,ACM
+"
+
+ Improving the Security of Visual Challenges
+
+",2019,Replay attack,Data fabrication,TO,ACM
+"
+
+ Improving the Security of Visual Challenges
+
+",2019,Timing attack,Forensic software integrity attacks,AT,ACM
+"
+
+ Forensic exploration on Windows File History
+
+",2021,Deleting backed up files,File wiping,AW,Elsevier
+"
+
+ Forensic exploration on Windows File History
+
+",2021,Disabling and re-enabling of a backup storage device,Hard disk manipulation,DH,Elsevier
+"
+
+ Forensic exploration on Windows File History
+
+",2021,Disconnecting an active backup storage device,Hard disk manipulation,DH,Elsevier
+"
+
+ Forensic exploration on Windows File History
+
+",2021,Hiding files through restore operation,Hidden directories,DH,Elsevier
+"
+
+ When finding nothing may be evidence of something: Anti-forensic and digital tool marks
+
+",2019,Data adding,Data fabrication,TO,Elsevier
+"
+
+ When finding nothing may be evidence of something: Anti-forensic and digital tool marks
+
+",2019,Data hiding,Steganography,DH,Elsevier
+"
+
+ When finding nothing may be evidence of something: Anti-forensic and digital tool marks
+
+",2019,Data manipulation,Data fabrication,TO,Elsevier
+"
+
+ When finding nothing may be evidence of something: Anti-forensic and digital tool marks
+
+",2019,Data obfuscation,Data obscurity,TO,Elsevier
+"
+
+ When finding nothing may be evidence of something: Anti-forensic and digital tool marks
+
+",2019,Data removal,Generic data wiping,AW,Elsevier
+"
+
+ When finding nothing may be evidence of something: Anti-forensic and digital tool marks
+
+",2019,Physical destruction,Disk degaussing / destruction techniques,AW,Elsevier
+"
+
+ When finding nothing may be evidence of something: Anti-forensic and digital tool marks
+
+",2019,editing,Data fabrication,TO,Elsevier
+"
+
+ When finding nothing may be evidence of something: Anti-forensic and digital tool marks
+
+",2019,masking,Data obscurity,TO,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Compression bomb attack,Denial of service attacks,AT,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,DCO,DCO area,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Data hiding by mounting,Hidden partition utilization,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Data hiding in HPA,HPA area,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Data hiding in reserved locations,Hard disk manipulation,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Data hiding in slack space,Slack space hiding,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Data hiding using encryption,Encryption,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Data hiding using steganography,Steganography,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Magic number modification,Filesystem manipulation,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Secure deletion,File wiping,AW,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Sparse file attack,Filesystem manipulation,DH,Elsevier
+"
+
+ Can computer forensic tools be trusted in digital investigations?
+
+",2020,Timestamp forgery,Log manipulation,TO,Elsevier
+"
+
+ DistLog: A Distributed Logging Scheme for IoT Forensics
+
+",2019,Code,Program packers,AT,Elsevier
+"
+
+ DistLog: A Distributed Logging Scheme for IoT Forensics
+
+",2019,Log injection attack,Log manipulation,TO,Elsevier
+"
+
+ DistLog: A Distributed Logging Scheme for IoT Forensics
+
+",2019,Log wiping attack,Log wiping,AW,Elsevier
+"
+
+ DistLog: A Distributed Logging Scheme for IoT Forensics
+
+",2019,script injection into logs,Log manipulation,TO,Elsevier
+"
+
+ An Android Case Study on Technical Anti-Forensic Challenges of WhatsApp Application
+
+",2020,Deletion of sent messages,File wiping,AW,IEEE
+"
+
+ A game-theoretic defensive approach for forensic investigators against rootkits
+
+",2020,File Hiding,Hidden directories,DH,Elsevier
+"
+
+ A game-theoretic defensive approach for forensic investigators against rootkits
+
+",2020,Hooking techniques,Direct kernel object manipulation (DKOM),DH,Elsevier
+"
+
+ A game-theoretic defensive approach for forensic investigators against rootkits
+
+",2020,Process Hiding,Direct kernel object manipulation (DKOM),DH,Elsevier
+"
+
+ A game-theoretic defensive approach for forensic investigators against rootkits
+
+",2020,Registry Hiding,Registry wiping,AW,Elsevier
+"
+
+ A game-theoretic defensive approach for forensic investigators against rootkits
+
+",2020,Rootkits,Direct kernel object manipulation (DKOM),DH,Elsevier
+"
+
+ A game-theoretic defensive approach for forensic investigators against rootkits
+
+",2020,SSDT Hooking,Direct kernel object manipulation (DKOM),DH,Elsevier
+"
+
+ A game-theoretic defensive approach for forensic investigators against rootkits
+
+",2020,Service Hiding,Data obscurity,TO,Elsevier
+"
+
+ An improved anti-forensic technique for JPEG compression
+
+",2019,Shifted block DCT approach,Data obscurity,TO,springer
+"
+
+ An improved anti-forensic technique for JPEG compression
+
+",2019,TV-based deblocking,Data obscurity,TO,springer
+"
+
+ Memory Layout Extraction and Verification Method for Reliable Physical Memory Acquisition
+
+",2021,API hooking,Alerts to forensic tool usage,AT,MDPI
+"
+
+ Memory Layout Extraction and Verification Method for Reliable Physical Memory Acquisition
+
+",2021,One-byte modification,Data fabrication,TO,MDPI
+"
+
+ Investigation of Countermeasures to Anti-Forensic Methods
+
+",2018,Artifact wiping,File wiping,AW,IEEE
+"
+
+ Investigation of Countermeasures to Anti-Forensic Methods
+
+",2018,Attacking the process tools,Forensic software integrity attacks,AT,IEEE
+"
+
+ Investigation of Countermeasures to Anti-Forensic Methods
+
+",2018,Data hiding,Steganography,DH,IEEE
+"
+
+ Investigation of Countermeasures to Anti-Forensic Methods
+
+",2018,Evidence counterfeiting,Data fabrication,TO,IEEE
+"
+
+ Investigation of Countermeasures to Anti-Forensic Methods
+
+",2018,Evidence destruction,Generic data wiping,AW,IEEE
+"
+
+ Investigation of Countermeasures to Anti-Forensic Methods
+
+",2018,Evidence hiding,Data obscurity,TO,IEEE
+"
+
+ Investigation of Countermeasures to Anti-Forensic Methods
+
+",2018,Evidence source elimination,File wiping,AW,IEEE
+"
+
+ Investigation of Countermeasures to Anti-Forensic Methods
+
+",2018,Trail obfuscation,Trail obfuscation,TO,IEEE
+"
+
+ Differentiating Synthetic and Optical Zooming for Passive Video Forgery Detection: An Anti-Forensic Perspective
+
+",2019,Synthetic zooming,Data fabrication,TO,Elsevier
+"
+
+ Differentiating Synthetic and Optical Zooming for Passive Video Forgery Detection: An Anti-Forensic Perspective
+
+",2019,Upscale-crop forgery,Data fabrication,TO,Elsevier
+"
+
+ Anti-forensic approach for JPEG compressed images with enhanced image quality and forensic undetectability
+
+",2020,Histogram smoothing via DFrCT,Data fabrication,TO,springer
+"
+
+ Anti-forensic approach for JPEG compressed images with enhanced image quality and forensic undetectability
+
+",2020,Shifted block Discrete Fractional Cosine Transform (DFrCT),Data obscurity,TO,springer
+"
+
+ Anti-forensic approach for JPEG compressed images with enhanced image quality and forensic undetectability
+
+",2020,TV-based deblocking,Data obscurity,TO,springer
+"
+
+ A robust JPEG compression detector for image forensics
+
+",2020,FAF (Fan's JPEG anti-forensics: TV-based deblocking + dithering + second TV-deblocking + decalibration),Data obscurity,TO,Elseiver
+"
+
+ A robust JPEG compression detector for image forensics
+
+",2020,SAF1 (Stamm's JPEG anti-forensics: dithering to remove quantization artifacts),Data obscurity,TO,Elseiver
+"
+
+ A robust JPEG compression detector for image forensics
+
+",2020,SAF2 (Stamm's JPEG anti-forensics: dithering + median filtering + Gaussian noise addition),Data obscurity,TO,Elseiver
+"
+
+ Anti-forensics of Median Filtering and Contrast Enhancement
+
+",2019,Anti-forensic contrast enhancement,Contrast enhancement anti-forensics,TO,Elseiver
+"
+
+ Anti-forensics of Median Filtering and Contrast Enhancement
+
+",2019,Anti-forensic median filtering,Median filtering anti-forensics,TO,Elseiver
+"
+
+ Forensics and Anti-Forensics of a NAND Flash Memory: From a Copy-Back Program Perspective
+
+",2021,Application of deletion pulses,File wiping,AW,IEEE
+"
+
+ Forensics and Anti-Forensics of a NAND Flash Memory: From a Copy-Back Program Perspective
+
+",2021,File wiping,File wiping,AW,IEEE
+"
+
+ Forensics and Anti-Forensics of a NAND Flash Memory: From a Copy-Back Program Perspective
+
+",2021,Overwriting using random data,Overwriting,AW,IEEE
+"
+
+ Unmanned Aerial Vehicle Kill Chain: Purple Teaming Tactics
+
+",2021,Anti-detection,Anti-reverse engineering,AT,IEEE
+"
+
+ Unmanned Aerial Vehicle Kill Chain: Purple Teaming Tactics
+
+",2021,Anti-forensics,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Unmanned Aerial Vehicle Kill Chain: Purple Teaming Tactics
+
+",2021,Data Exfiltration Tempering,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Anti-Forensics for Face Swapping Videos via Adversarial Training
+
+",2021,Adversarial perturbations,Adversarial example (evasion),AAF,IEEE
+"
+
+ Anti-Forensics for Face Swapping Videos via Adversarial Training
+
+",2021,GAN-based anti-forensics,GAN-based anti-forensic attack,AAF,IEEE
+"
+
+ Anti-Forensics for Face Swapping Videos via Adversarial Training
+
+",2021,Image style transfer,GAN-based media forgery,AAF,IEEE
+"
+
+ CGR-GAN: CG facial image regeneration for anti-forensics based on generative adversarial network
+
+",2019,Black-box attack,Adversarial example (evasion),AAF,IEEE
+"
+
+ CGR-GAN: CG facial image regeneration for anti-forensics based on generative adversarial network
+
+",2019,CG facial image regeneration,GAN-based media forgery,AAF,IEEE
+"
+
+ CGR-GAN: CG facial image regeneration for anti-forensics based on generative adversarial network
+
+",2019,Style transfer,GAN-based media forgery,AAF,IEEE
+"
+
+ Drone Disrupted Denial of Service Attack (3DOS): Towards an Incident Response and Forensic Analysis of Remotely Piloted Aerial Systems (RPASs)
+
+",2019,Encryption of flight logs,Encryption,DH,IEEE
+"
+
+ Drone Disrupted Denial of Service Attack (3DOS): Towards an Incident Response and Forensic Analysis of Remotely Piloted Aerial Systems (RPASs)
+
+",2019,Modification of digital evidence,Data fabrication,TO,IEEE
+"
+
+ Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",2020,Additive white Gaussian noise anti-forensics,GAN-Based Multi-Operation Forensic Trace Suppression,AAF,Elseiver
+"
+
+ Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",2020,Contrast enhancement anti-forensics,GAN-Based Multi-Operation Forensic Trace Suppression,AAF,Elseiver
+"
+
+ Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",2020,Gaussian blurring anti-forensics,GAN-Based Multi-Operation Forensic Trace Suppression,AAF,Elseiver
+"
+
+ Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",2020,JPEG compression anti-forensics,GAN-Based Multi-Operation Forensic Trace Suppression,AAF,Elseiver
+"
+
+ Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",2020,Median filtering anti-forensics,GAN-Based Multi-Operation Forensic Trace Suppression,AAF,Elseiver
+"
+
+ Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",2020,Multi-operation anti-forensics,GAN-Based Multi-Operation Forensic Trace Suppression,AAF,Elseiver
+"
+
+ Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",2020,S Mapping anti-forensics,GAN-Based Multi-Operation Forensic Trace Suppression,AAF,Elseiver
+"
+
+ Towards Multi-Operation Image Anti-Forensics with Generative Adversarial Networks
+
+",2020,Unsharp masking sharpening anti-forensics,GAN-Based Multi-Operation Forensic Trace Suppression,AAF,Elseiver
+"
+
+ De-Wipimization: Detection of data wiping traces for investigating NTFS file system
+
+",2020,Data wiping,Generic data wiping,AW,Elseiver
+"
+
+ De-Wipimization: Detection of data wiping traces for investigating NTFS file system
+
+",2020,File wiping,File wiping,AW,Elseiver
+"
+
+ De-Wipimization: Detection of data wiping traces for investigating NTFS file system
+
+",2020,Log wiping,Log wiping,AW,Elseiver
+"
+
+ De-Wipimization: Detection of data wiping traces for investigating NTFS file system
+
+",2020,Partition wiping,Partition Wiping,AW,Elseiver
+"
+
+ An approach to detect video frame deletion under anti‚ forensics
+
+",2019,Inter-frame interpolation at frame deletion point (AOBMC-based),Frame deletion trace removal,TO,springer
+"
+
+ An approach to detect video frame deletion under anti‚ forensics
+
+",2019,Linear frame interpolation at frame deletion point,Frame deletion trace removal,TO,springer
+"
+
+ Perception matters: Exploring imperceptible and transferable anti-forensics for GAN-generated fake face imagery detection
+
+",2021,Adversarial attacks,Adversarial Deepfake Detector Evasion,AAF,Elseiver
+"
+
+ Perception matters: Exploring imperceptible and transferable anti-forensics for GAN-generated fake face imagery detection
+
+",2021,Imperceptible perturbations,Adversarial Deepfake Detector Evasion,AAF,Elseiver
+"
+
+ Perception matters: Exploring imperceptible and transferable anti-forensics for GAN-generated fake face imagery detection
+
+",2021,Transferable perturbations,Adversarial Deepfake Detector Evasion,AAF,Elseiver
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Bootable USB usage,Live distributions,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,DVD usage,Live distributions,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Disk,Hard disk manipulation,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Disk degaussing,Disk degaussing / destruction techniques,AW,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Encryption,Encryption,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,File wiping,File wiping,AW,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,IP address spoofing,IP address spoofing,TO,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Live CD,Live distributions,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Log manipulation,Log manipulation,TO,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Memory injection,Remote library injection,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Metadata manipulation,Metadata manipulation,AW,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Network-based data hiding,Network-based data hiding,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,P2P networking,P2P networking,TO,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Partition wiping,Partition Wiping,AW,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Program packers,Program packers,AT,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Proxy servers,Proxy server,TO,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Registry wiping,Registry wiping,AW,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Steganography,Steganography,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Syscall proxying,Syscall proxying,DH,IEEE
+"
+
+ Overview of Digital Forensics and Anti-Forensics Techniques
+
+",2020,Virtual machines usage,Virtualization,PIA,IEEE
+"
+
+ Forensic Analysis with Anti-Forensic Case Studies on Amazon Alexa and Google Assistant Build-In Smart Home Speakers
+
+",2019,Changing device name,Trail obfuscation,TO,IEEE
+"
+
+ Forensic Analysis with Anti-Forensic Case Studies on Amazon Alexa and Google Assistant Build-In Smart Home Speakers
+
+",2019,Creating fake routine,Data fabrication,TO,IEEE
+"
+
+ Forensic Analysis with Anti-Forensic Case Studies on Amazon Alexa and Google Assistant Build-In Smart Home Speakers
+
+",2019,Custom skill development,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ End-to-End Anti-Forensics Network of Single and Double JPEG Detection
+
+",2021,DCT constraints,Neural JPEG Fingerprint Suppression,AAF,IEEE
+"
+
+ End-to-End Anti-Forensics Network of Single and Double JPEG Detection
+
+",2021,DJPEG anti-forensics,Neural JPEG Fingerprint Suppression,AAF,IEEE
+"
+
+ End-to-End Anti-Forensics Network of Single and Double JPEG Detection
+
+",2021,Histogram smoothing,Neural JPEG Fingerprint Suppression,AAF,IEEE
+"
+
+ End-to-End Anti-Forensics Network of Single and Double JPEG Detection
+
+",2021,JPEG anti-forensics,Neural JPEG Fingerprint Suppression,AAF,IEEE
+"
+
+ End-to-End Anti-Forensics Network of Single and Double JPEG Detection
+
+",2021,JPEG deblocking,Neural JPEG Fingerprint Suppression,AAF,IEEE
+"
+
+ End-to-End Anti-Forensics Network of Single and Double JPEG Detection
+
+",2021,JPEG restoration,Neural JPEG Fingerprint Suppression,AAF,IEEE
+"
+
+ Countering Anti-forensics of SIFT-based Copy-Move Detection
+
+",2021,Classification Based Attack (CLBA),Data obscurity,TO,IEEE
+"
+
+ Countering Anti-forensics of SIFT-based Copy-Move Detection
+
+",2021,Collage attack (CA),Data fabrication,TO,IEEE
+"
+
+ Countering Anti-forensics of SIFT-based Copy-Move Detection
+
+",2021,GS+LS (Global + Local Smoothing),Data fabrication,TO,IEEE
+"
+
+ Countering Anti-forensics of SIFT-based Copy-Move Detection
+
+",2021,Global smoothing (GS),Data fabrication,TO,IEEE
+"
+
+ Countering Anti-forensics of SIFT-based Copy-Move Detection
+
+",2021,Local smoothing (LS),Data fabrication,TO,IEEE
+"
+
+ Countering Anti-forensics of SIFT-based Copy-Move Detection
+
+",2021,Removal with Minimum Distortion (RMD),Data fabrication,TO,IEEE
+"
+
+ Digital tool marks (DTMs): a forensic analysis of file wiping software
+
+",2019,File wiping,File wiping,AW,AJFS
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Account Hijacking,Trojan commands,TO,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Disabling Logs,Log wiping,AW,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Encryption,Encryption,DH,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,File Attribute Modification,Metadata manipulation,AW,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Hiding File System Structures,Hidden directories,DH,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Spoofing,Data misdirection/misinformation/framing,TO,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Steganography,Steganography,DH,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Use of Operating System on Removable Media,Live distributions,DH,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Use of Portable Applications,network-based data hiding,DH,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,User Activity Artifact Destruction,Generic data wiping,AW,springer
+"
+
+ Anti-Forensic Threat Modeling
+
+",2017,Wiping,Generic data wiping,AW,springer
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,Blackbox Write,Forensic software integrity attacks,AT,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,Cache-based I,Filesystem manipulation,DH,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,HIveS (Hidden in I,Steganography,DH,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,I,Filesystem manipulation,DH,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,IOMMU manipulation,Memory hiding,DH,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,O Shadowing,Hidden directories,DH,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,O Space),Slack space hiding,DH,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,O storage,Hidden partition utilization,DH,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,RAM-less encryption,Encryption,DH,ACM
+"
+
+ Now You See Me: Hide and Seek in Physical Address Space
+
+",2015,TLB Camouflage,Memory hiding,DH,ACM
+"
+
+ Comprehensive Expansion in Anti-Forensics Techniques (AFTs) Based Compressed Image
+
+",2017,Anti-Forensic dither,Data fabrication,TO,IEEE
+"
+
+ Comprehensive Expansion in Anti-Forensics Techniques (AFTs) Based Compressed Image
+
+",2017,Blocking artifacts removal,Data obscurity,TO,IEEE
+"
+
+ Comprehensive Expansion in Anti-Forensics Techniques (AFTs) Based Compressed Image
+
+",2017,Chaos-based dither method,Data fabrication,TO,IEEE
+"
+
+ Comprehensive Expansion in Anti-Forensics Techniques (AFTs) Based Compressed Image
+
+",2017,Double JPEG compression untraceability,Data obscurity,TO,IEEE
+"
+
+ Comprehensive Expansion in Anti-Forensics Techniques (AFTs) Based Compressed Image
+
+",2017,Quantization fingerprints removal,Data obscurity,TO,IEEE
+"
+
+ Comprehensive Expansion in Anti-Forensics Techniques (AFTs) Based Compressed Image
+
+",2017,Wavelet compression fingerprints removal,Data obscurity,TO,IEEE
+"
+
+ Android Mobile Forensic Analyzer for Stegno data
+
+",2015,Artifact wiping,File wiping,AW,IEEE
+"
+
+ Android Mobile Forensic Analyzer for Stegno data
+
+",2015,Attacks against processes and tools,Forensic software integrity attacks,AT,IEEE
+"
+
+ Android Mobile Forensic Analyzer for Stegno data
+
+",2015,Encryption,Encryption,DH,IEEE
+"
+
+ Android Mobile Forensic Analyzer for Stegno data
+
+",2015,Steganography,Steganography,DH,IEEE
+"
+
+ Android Mobile Forensic Analyzer for Stegno data
+
+",2015,Trail obfuscation,Trail obfuscation,TO,IEEE
+"
+
+ PHASE BASED DETECTION OF JPEG COUNTER FORENSICS
+
+",2015,JPEG compression anti-forensics,Data obscurity,TO,IEEE
+"
+
+ PHASE BASED DETECTION OF JPEG COUNTER FORENSICS
+
+",2015,Local random dithering anti-forensics,Data fabrication,TO,IEEE
+"
+
+ PHASE BASED DETECTION OF JPEG COUNTER FORENSICS
+
+",2015,Noise dithering anti-forensics,Data fabrication,TO,IEEE
+"
+
+ Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence
+
+",2015,A-Posteriori Removal,Evidence destruction,AW,ACM
+"
+
+ Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence
+
+",2015,A-Priori Avoidance,Data obscurity,TO,ACM
+"
+
+ Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence
+
+",2015,Automation-based techniques,Presence of anti-forensics tools/files/installation files,PIA,ACM
+"
+
+ Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence
+
+",2015,Creation of false digital evidence,Data fabrication,TO,ACM
+"
+
+ Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence
+
+",2015,Obfuscation,Data obscurity,TO,ACM
+"
+
+ Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence
+
+",2015,Remotization-based techniques,P2P networking,TO,ACM
+"
+
+ Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence
+
+",2015,Secure deletion,File wiping,AW,ACM
+"
+
+ Novel Insider Threat Techniques: Automation and Generation of Ad Hoc Digital Evidence
+
+",2015,Tampering of timing information,Log manipulation,TO,ACM
+"
+
+ Anti-forensics in ext4: On secrecy and usability of timestamp-based data hiding
+
+",2018,Data hiding using ext4 timestamps,Log manipulation,TO,Elsevier
+"
+
+ Anti-forensics in ext4: On secrecy and usability of timestamp-based data hiding
+
+",2018,Steganographic filesystem,Steganographic filesystem,DH,Elsevier
+"
+
+ Digital Forensic Analysis for Enhancing Information Security
+
+",2015,Bad Sectors,Bad block utilization,DH,Elseiver
+"
+
+ Digital Forensic Analysis for Enhancing Information Security
+
+",2015,Device Configuration Overlay,DCO area,DH,Elseiver
+"
+
+ Digital Forensic Analysis for Enhancing Information Security
+
+",2015,Host Protected Area,HPA area,DH,Elseiver
+"
+
+ Digital Forensic Analysis for Enhancing Information Security
+
+",2015,Slack space hiding,Slack space hiding,DH,Elseiver
+"
+
+ Digital Forensic Analysis for Enhancing Information Security
+
+",2015,Slacker.exe,Presence of anti-forensics tools/files/installation files,PIA,Elseiver
+"
+
+ Digital Forensic Analysis for Enhancing Information Security
+
+",2015,Steganography,Steganography,DH,Elseiver
+"
+
+ Digital Forensic Analysis for Enhancing Information Security
+
+",2015,TimeStomp,Log manipulation,TO,Elseiver
+"
+
+ Digital Forensic Analysis for Enhancing Information Security
+
+",2015,clusters,Hard disk manipulation,DH,Elseiver
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,Backup and restore of logs,Log manipulation,TO,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,Browser history,Log manipulation,TO,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,Cache2),Metadata wiping,AW,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,Clock tampering (system and hardware time rollback),Log manipulation,TO,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,Evidence deletion (files,File wiping,AW,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,Logfile manipulation (syslog,Log manipulation,TO,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,Obfuscation through false context (chat logs,Data misdirection/misinformation/framing,TO,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,Timestamp manipulation (file MAC times,Log manipulation,TO,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,ZIP bomb,Denial of service attacks,AT,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,auth.log,Log wiping,AW,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,bash_history,Log wiping,AW,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,cache manipulation (places.sqlite,Metadata wiping,AW,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,cookies.sqlite,Metadata wiping,AW,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,history),Metadata wiping,AW,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,logs,Log wiping,AW,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,malicious .bashrc entries),Presence of anti-forensics tools/files/installation files,PIA,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,sqlite entries),Log manipulation,TO,Elsevier
+"
+
+ Controlled experiments in digital evidence tampering
+
+",2018,wtmp),Log manipulation,TO,Elsevier
+"
+
+ Anti-computer forensics
+
+",2017,Artefact wiping,File wiping,AW,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Broken log files,Log wiping,AW,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Circular references,Data obscurity,TO,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Cryptography,Encryption,DH,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Data saturation,Data fabrication,TO,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,File signature masking,Filesystem manipulation,DH,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Hard drive scrubbing,Disk wiping,AW,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Hiding data in slack and unallocated space,Slack space hiding,DH,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Hiding data in virtual machines,Hidden partition utilization,DH,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,NSRL Scrubbing,Metadata wiping,AW,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Non standard program usage,Data obscurity,TO,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Nonstandard RAID configurations,Hard disk manipulation,DH,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Physical data destruction,Disk degaussing / destruction techniques,AW,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Portable systems and programs,Portable apps,DH,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Restricted filenames,Filesystem manipulation,DH,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Scrambled MACE Times,Log manipulation,TO,IEEE
+"
+
+ Anti-computer forensics
+
+",2017,Steganography,Steganography,DH,IEEE
+"
+
+ Anti-Forensics of JPEG Detectors via Adaptive Quantization Table Replacement
+
+",2014,Adaptive quantization table replacement,JPEG compression anti-forensics,TO,IEEE
+"
+
+ A JPEG Blocking Artifact Detector for Image Forensics
+
+",2018,Anti-forensic dither,Data fabrication,TO,IEEE
+"
+
+ A JPEG Blocking Artifact Detector for Image Forensics
+
+",2018,DCT subband histogram remapping,Data obscurity,TO,IEEE
+"
+
+ A JPEG Blocking Artifact Detector for Image Forensics
+
+",2018,Deblocking,Data fabrication,TO,IEEE
+"
+
+ A JPEG Blocking Artifact Detector for Image Forensics
+
+",2018,Decalibration,Data fabrication,TO,IEEE
+"
+
+ A JPEG Blocking Artifact Detector for Image Forensics
+
+",2018,Perceptual dither,Data fabrication,TO,IEEE
+"
+
+ A JPEG Blocking Artifact Detector for Image Forensics
+
+",2018,Shrink and Zoom (SAZ),Data fabrication,TO,IEEE
+"
+
+ Digital Video Source Acquisition Forgery Technique Based on Pattern Sensor Noise Extraction
+
+",2019,Noise fingerprint removal,Data obscurity,TO,IEEE
+"
+
+ Digital Video Source Acquisition Forgery Technique Based on Pattern Sensor Noise Extraction
+
+",2019,Sensor noise pattern embedding,Data fabrication,TO,IEEE
+"
+
+ Digital Video Source Acquisition Forgery Technique Based on Pattern Sensor Noise Extraction
+
+",2019,Sensor noise pattern extraction,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Digital Video Source Acquisition Forgery Technique Based on Pattern Sensor Noise Extraction
+
+",2019,Video anonymization,Data obscurity,TO,IEEE
+"
+
+ Digital Video Source Acquisition Forgery Technique Based on Pattern Sensor Noise Extraction
+
+",2019,Video forgery,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Digital Artifacts- Anti-Forensics Approach for Optimization of Digital Images
+
+",2017,Anti-forensic dither,Data obscurity,TO,IEEE
+"
+
+ Digital Artifacts- Anti-Forensics Approach for Optimization of Digital Images
+
+",2017,DCT coefficient quantization artifact removal,Data obscurity,TO,IEEE
+"
+
+ THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",2015,AFTER trigger,Data fabrication,TO,IEEE
+"
+
+ THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",2015,BEFORE,Data fabrication,TO,IEEE
+"
+
+ THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",2015,Database role change trigger,Data obscurity,TO,IEEE
+"
+
+ THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",2015,Database shutdown trigger,Data obscurity,TO,IEEE
+"
+
+ THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",2015,Database startup trigger,Data obscurity,TO,IEEE
+"
+
+ THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",2015,INSTEAD OF trigger,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",2015,Login trigger,Alerts to forensic tool usage,AT,IEEE
+"
+
+ THE IMPACT OF TRIGGERS ON FORENSIC ACQUISITION AND ANALYSIS OF DATABASES
+
+",2015,Server error trigger,Alerts to forensic tool usage,AT,IEEE
+"
+
+ Attacking contrast enhancement forensics in digital images
+
+",2014,CE trace forging attack,Data fabrication,TO,springer
+"
+
+ Attacking contrast enhancement forensics in digital images
+
+",2014,CE trace hiding attack,Data obscurity,TO,springer
+"
+
+ Attacking contrast enhancement forensics in digital images
+
+",2014,Synthesis of color filter array pattern,Data fabrication,TO,springer
+"
+
+ Attacking contrast enhancement forensics in digital images
+
+",2014,Undetectable resampling,Data obscurity,TO,springer
+"
+
+ Attacking contrast enhancement forensics in digital images
+
+",2014,Untraceable JPEG compression,Data obscurity,TO,springer
+"
+
+ AFAUC ‚Äö√Ñ√¨ anti-forensics of storage devices by alternative use of communication channels
+
+",2014,Alternative use of communication channels,Proxy server,TO,IEEE
+"
+
+ AFAUC ‚Äö√Ñ√¨ anti-forensics of storage devices by alternative use of communication channels
+
+",2014,Diagnostic interface exploitation,Forensic software integrity attacks,AT,IEEE
+"
+
+ AFAUC ‚Äö√Ñ√¨ anti-forensics of storage devices by alternative use of communication channels
+
+",2014,Firmware manipulation,Forensic software integrity attacks,AT,IEEE
+"
+
+ AFAUC ‚Äö√Ñ√¨ anti-forensics of storage devices by alternative use of communication channels
+
+",2014,Hidden data partition creation,Hidden partition utilization,DH,IEEE
+"
+
+ Mitigating Anti-forensics in the Cloud via Resource-Based Privacy Preserving Activity Attribution
+
+",2017,Data misdirection,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Mitigating Anti-forensics in the Cloud via Resource-Based Privacy Preserving Activity Attribution
+
+",2017,Disk wiping,Disk wiping,AW,IEEE
+"
+
+ Mitigating Anti-forensics in the Cloud via Resource-Based Privacy Preserving Activity Attribution
+
+",2017,Encryption based anti-forensics,Encryption,DH,IEEE
+"
+
+ Data Remanence and Digital Forensic Investigation for CUDA Graphics Processing Units
+
+",2015,Dead Man‚Äôs Handle Monitoring,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Data Remanence and Digital Forensic Investigation for CUDA Graphics Processing Units
+
+",2015,Dynamic Parallelism,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Data Remanence and Digital Forensic Investigation for CUDA Graphics Processing Units
+
+",2015,Memory Overwriting,Memory hiding,DH,IEEE
+"
+
+ Performance Evaluation of Dither based Approach for Alleviation of Blocking Artifact in Image Compression
+
+",2017,Anti-forensic deblocking,Data obscurity,TO,IEEE
+"
+
+ Performance Evaluation of Dither based Approach for Alleviation of Blocking Artifact in Image Compression
+
+",2017,Anti-forensic dither,Data obscurity,TO,IEEE
+"
+
+ Detecting double JPEG compression and its related anti-forensic operations with CNN
+
+",2019,AF Fan,Data obscurity,TO,springer
+"
+
+ Detecting double JPEG compression and its related anti-forensic operations with CNN
+
+",2019,AF Singh,Data obscurity,TO,springer
+"
+
+ Detecting double JPEG compression and its related anti-forensic operations with CNN
+
+",2019,AF Stamm,Data obscurity,TO,springer
+"
+
+ Detecting double JPEG compression and its related anti-forensic operations with CNN
+
+",2019,Contrast enhancement anti-forensics,Data obscurity,TO,springer
+"
+
+ Detecting double JPEG compression and its related anti-forensic operations with CNN
+
+",2019,Median filtering with Gaussian noise,Data obscurity,TO,springer
+"
+
+ Detecting double JPEG compression and its related anti-forensic operations with CNN
+
+",2019,Resizing with cropping,Data fabrication,TO,springer
+"
+
+ Detecting double JPEG compression and its related anti-forensic operations with CNN
+
+",2019,Resizing with recovery,Data fabrication,TO,springer
+"
+
+ A Non-Algorithmic Forensic Approach for Hiding Data in Image Files
+
+",2018,Data hiding,Steganography,DH,ACM
+"
+
+ A Non-Algorithmic Forensic Approach for Hiding Data in Image Files
+
+",2018,Stealthy watermarking,Steganography,DH,ACM
+"
+
+ Anti-forensics of double JPEG compression with the same quantization matrix
+
+",2014,Adaptive random dithering,Data fabrication,TO,springer
+"
+
+ Anti-forensics of double JPEG compression with the same quantization matrix
+
+",2014,Modification of DCT coefficients,JPEG compression anti-forensics,TO,springer
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,Device Configuration Overlay,DCO area,DH,ACM
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,Disk and volume encryption,Encryption,DH,ACM
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,Encrypting File Systems,Encryption,DH,ACM
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,File encryption,Encryption,DH,ACM
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,Host Protected Area,HPA area,DH,ACM
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,Information hiding in slack space,Slack space hiding,DH,ACM
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,Obfuscated file names,Filesystem manipulation,DH,ACM
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,Partition slack,Slack space hiding,DH,ACM
+"
+
+ FROST ‚ Anti-Forensics Digital-Dead-DROp Information Hiding RobuST to Detection & Data Loss with Fault tolerance
+
+",2017,Volume slack,Slack space hiding,DH,ACM
+"
+
+ DETECTING ANTI-FORENSIC ATTACKS ON DEMOSAICING-BASED CAMERA MODEL IDENTIFICATION
+
+",2016,Anti-forensic camera model falsification,Metadata manipulation,AW,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Changing files headers,Filesystem manipulation,DH,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Data wiping,Generic data wiping,AW,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Data-Hiding inside Media,Steganography,DH,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Deniable encryption,Encryption,DH,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Log Injection-Tampering-Forging,Log manipulation,TO,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Log cleaning,Log wiping,AW,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Memory injection,Remote library injection,DH,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Mimicking user behavior patterns in network traffic,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,No-footprint pass recovery,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Sleath Scanning,Data obscurity,TO,IEEE
+"
+
+ Deniable Encryption based on Standard RSA with OAEP
+
+",2016,Tampering time-stamp,Log manipulation,TO,IEEE
+"
+
+ Anti-forensic steganography using multi-bit MER with flexible bit location
+
+",2015,Multi-bit MER_FBL embedding method,Steganography,DH,IEEE
+"
+
+ Anti-forensic steganography using multi-bit MER with flexible bit location
+
+",2015,Torus automorphisms,Data fabrication,TO,IEEE
+"
+
+ Countering Anti-Forensics of Lateral Chromatic Aberration
+
+",2017,Anti-forensic scaling and shifting,Data fabrication,TO,ACM
+"
+
+ Countering Anti-Forensics of Lateral Chromatic Aberration
+
+",2017,Interpolated resampling,Data fabrication,TO,ACM
+"
+
+ Countering Anti-Forensics of Lateral Chromatic Aberration
+
+",2017,LCA anti-forensics,Data fabrication,TO,ACM
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2017,Data Pooling,Data obscurity,TO,ACM
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2017,Dummy HDDs,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2017,Hash Collisions,Hash value integrity attacks,AT,ACM
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2017,Loop References,Data obscurity,TO,IEEE
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2017,Manipulating File Signatures,Filesystem manipulation,DH,ACM
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2017,Manipulating MACE Times,Log manipulation,TO,IEEE
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2017,Non-Standard RAID‚Äö√Ñ√¥ed Disks,Hard disk manipulation,DH,ACM
+"
+
+ A Survey On Anti-Forensics Techniques
+
+",2017,Restricted Filenames,Filesystem manipulation,DH,IEEE
+"
+
+ Analysis of VMware Virtual Machine in Forensics and Anti-Forensics Paradigm
+
+",2018,Snapshot reversion,Live distributions,DH,IEEE
+"
+
+ Analysis of VMware Virtual Machine in Forensics and Anti-Forensics Paradigm
+
+",2018,VM inside encrypted containers,Virtualization,PIA,IEEE
+"
+
+ Analysis of VMware Virtual Machine in Forensics and Anti-Forensics Paradigm
+
+",2018,Virtual machine deletion,Generic data wiping,AW,IEEE
+"
+
+ How to Decrypt PIN-Based Encrypted Backup Data of Samsung Smartphones
+
+",2018,PIN-based backup encryption (Samsung Smart Switch 4.1.16),Encryption,DH,Elsevier
+"
+
+ Alleviation of Quantization Artifact using Anti-Forensic in Image Processing
+
+",2017,Anti-forensic dither,Data fabrication,TO,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of cell metadata and serial types,Filesystem manipulation,DH,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of cell pointer array values,Filesystem manipulation,DH,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of database file size,Filesystem manipulation,DH,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of freeblock structures,Filesystem manipulation,DH,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of freelist trunk pages,Filesystem manipulation,DH,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of left child page pointers,Filesystem manipulation,DH,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of overflow page pointers,Filesystem manipulation,DH,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of root page pointers,Filesystem manipulation,DH,IEEE
+"
+
+ Introducing Anti-Forensics to SQLite Corpora and Tool Testing
+
+",2018,Manipulation of zero-termination of textual contents,Filesystem manipulation,DH,IEEE
+"
+
+ The Forensic Analysis of a False Digital Alibi
+
+",2012,Automated human activity simulation,Data fabrication,TO,IEEE
+"
+
+ The Forensic Analysis of a False Digital Alibi
+
+",2012,Injection Technique,Remote library injection,DH,IEEE
+"
+
+ The Forensic Analysis of a False Digital Alibi
+
+",2012,Obfuscation of file names,Filesystem manipulation,DH,IEEE
+"
+
+ The Forensic Analysis of a False Digital Alibi
+
+",2012,Secure deletion,File wiping,AW,IEEE
+"
+
+ The Forensic Analysis of a False Digital Alibi
+
+",2012,Self-deletion,File wiping,AW,IEEE
+"
+
+ Determining removal of forensic artefacts using the USN change journal
+
+",2013,Encryption,Encryption,DH,Elsevier
+"
+
+ Determining removal of forensic artefacts using the USN change journal
+
+",2013,Preventing traces of Internet history,Log wiping,AW,Elsevier
+"
+
+ Determining removal of forensic artefacts using the USN change journal
+
+",2013,Removing operating system artefacts,Generic data wiping,AW,Elsevier
+"
+
+ Determining removal of forensic artefacts using the USN change journal
+
+",2013,Removing traces of Internet Activity,Log wiping,AW,Elsevier
+"
+
+ Determining removal of forensic artefacts using the USN change journal
+
+",2013,Secure erasure,File wiping,AW,Elsevier
+"
+
+ Forensic identification of resampling operators: A semi non-intrusive approach
+
+",2012,Dual-path-based resampling,Data fabrication,TO,Elsevier
+"
+
+ Forensic identification of resampling operators: A semi non-intrusive approach
+
+",2012,GD-based resampling,Data fabrication,TO,Elsevier
+"
+
+ Forensic identification of resampling operators: A semi non-intrusive approach
+
+",2012,Postprocessing-based resampling (median-filtering,Data fabrication,TO,Elsevier
+"
+
+ PROTECTION AGAINST REVERSE ENGINEERING IN DIGITAL CAMERAS
+
+",2013,Disrupting color sampling grid,Data fabrication,TO,IEEE
+"
+
+ PROTECTION AGAINST REVERSE ENGINEERING IN DIGITAL CAMERAS
+
+",2013,Nonlinear filtering,Data fabrication,TO,IEEE
+"
+
+ A Hierarchical Visibility theory for formal digital investigation of anti-forensic attacks
+
+",2012,Generic data hiding techniques,Steganography,DH,Elseiver
+"
+
+ A Hierarchical Visibility theory for formal digital investigation of anti-forensic attacks
+
+",2012,Log files alteration,Log manipulation,TO,Elseiver
+"
+
+ A Hierarchical Visibility theory for formal digital investigation of anti-forensic attacks
+
+",2012,Memory injection,Remote library injection,DH,Elseiver
+"
+
+ A Hierarchical Visibility theory for formal digital investigation of anti-forensic attacks
+
+",2012,Overwriting of metadata,Metadata wiping,AW,Elseiver
+"
+
+ A Hierarchical Visibility theory for formal digital investigation of anti-forensic attacks
+
+",2012,Secure deletion,File wiping,AW,Elseiver
+"
+
+ A Hierarchical Visibility theory for formal digital investigation of anti-forensic attacks
+
+",2012,System calls proxying,Syscall proxying,DH,Elseiver
+"
+
+ Novel Anti-forensics Approaches for Smart Phones
+
+",2012,Erase Sensitive Data,Generic data wiping,AW,IEEE
+"
+
+ Novel Anti-forensics Approaches for Smart Phones
+
+",2012,Replace All Data,Generic data wiping,AW,IEEE
+"
+
+ Novel Anti-forensics Approaches for Smart Phones
+
+",2012,Sudden Death,Evidence destruction,AW,IEEE
+"
+
+ A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System
+
+",2011,Data tampering,Data fabrication,TO,IEEE
+"
+
+ A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System
+
+",2011,Information and action hiding,Data obscurity,TO,IEEE
+"
+
+ A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System
+
+",2011,Information concealment,Data obscurity,TO,IEEE
+"
+
+ A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System
+
+",2011,Information confidentiality,Encryption,DH,IEEE
+"
+
+ A Plausibly-Deniable, Practical Trusted Platform Module Based Anti-Forensics Client-Server System
+
+",2011,Plausible deniability,Encrypted data,PIA,IEEE
+"
+
+ CONCEALABILITY-RATE-DISTORTION TRADEOFF IN IMAGE COMPRESSION ANTI-FORENSICS
+
+",2013,Flexible anti-forensic dither for double JPEG compression,JPEG compression anti-forensics,TO,IEEE
+"
+
+ Android anti-forensics through a local paradigm
+
+",2010,Counterfeiting evidence,Data fabrication,TO,Elsevier
+"
+
+ Android anti-forensics through a local paradigm
+
+",2010,Eliminating evidence sources,Evidence destruction,AW,Elsevier
+"
+
+ Android anti-forensics through a local paradigm
+
+",2010,Evidence destruction,Generic data wiping,AW,Elsevier
+"
+
+ Android anti-forensics through a local paradigm
+
+",2010,Evidence hiding,Data obscurity,TO,Elsevier
+"
+
+ Android anti-forensics through a local paradigm
+
+",2010,Private folder mechanism,Hidden directories,DH,Elsevier
+"
+
+ A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",2012,Attacking and misleading the tools,Forensic software integrity attacks,AT,IEEE
+"
+
+ A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",2012,Attacking the investigator,Investigator integrity attacks,AT,IEEE
+"
+
+ A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",2012,Data hiding,Steganography,DH,IEEE
+"
+
+ A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",2012,Deleting Evidence Entries,Log wiping,AW,IEEE
+"
+
+ A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",2012,Hiding the Effect of the Previously Executed Scenario on Some System Components,Data obscurity,TO,IEEE
+"
+
+ A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",2012,Inserting Fake Evidence Entries,Data fabrication,TO,IEEE
+"
+
+ A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",2012,Modifying Evidence Entries,Log manipulation,TO,IEEE
+"
+
+ A System for Formal Digital Forensic Investigation Aware of Anti-Forensic Attacks
+
+",2012,Tail Obfuscation,Trail obfuscation,TO,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Archive bombs,Denial of service attacks,AT,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Buffer overflows,Forensic software integrity attacks,AT,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Code injection attacks,Forensic software integrity attacks,AT,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Compression bombs,Denial of service attacks,AT,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Cross-site scripting (XSS),Forensic software integrity attacks,AT,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Directory loop attacks,Denial of service attacks,AT,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Full disk encryption,Encryption,DH,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Manipulate timestamps,Log manipulation,TO,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Steganography,Steganography,DH,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Wiping hard disks,Disk wiping,AW,IEEE
+"
+
+ Anti-Forensics: The Next Step in Digital Forensics Tool Testing
+
+",2013,Wiping the registry,Registry wiping,AW,IEEE
+"
+
+ A Novel Anti-Forensics Technique for the Android OS
+
+",2011,Logical copy-sanitize-restore workflow using microSD,Generic data wiping,AW,IEEE
+"
+
+ A Novel Anti-Forensics Technique for the Android OS
+
+",2011,Sanitization via overwriting  dd,Generic data wiping,AW,IEEE
+"
+
+ A Novel Anti-Forensics Technique for the Android OS
+
+",2011,Secure deletion of digital evidence on NAND flash,File wiping,AW,IEEE
+"
+
+ A Novel Anti-Forensics Technique for the Android OS
+
+",2011,Selective modification of evidence with preserved metadata,Metadata manipulation,AW,IEEE
+"
+
+ A Novel Anti-Forensics Technique for the Android OS
+
+",2011,mke2fs),Filesystem manipulation,DH,IEEE
+"
+
+ Android Anti-forensics: Modifying CyanogenMod
+
+",2014,": 
+   Response delays",Investigator integrity attacks,AT,IEEE
+"
+
+ Android Anti-forensics: Modifying CyanogenMod
+
+",2014,Alternative Databases,Hidden partition utilization,DH,IEEE
+"
+
+ Android Anti-forensics: Modifying CyanogenMod
+
+",2014,Delayed restoration,Investigator integrity attacks,AT,IEEE
+"
+
+ Android Anti-forensics: Modifying CyanogenMod
+
+",2014,Hardcoded false contact list,Data fabrication,TO,IEEE
+"
+
+ Android Anti-forensics: Modifying CyanogenMod
+
+",2014,Rejecting installation of forensic tools,Alerts to forensic tool usage,AT,IEEE
+"
+
+ WAVELET-BASED IMAGE COMPRESSION ANTI-FORENSICS
+
+",2010,Anti-forensic dither,Data fabrication,TO,IEEE
+"
+
+ WAVELET-BASED IMAGE COMPRESSION ANTI-FORENSICS
+
+",2010,Compression artifact removal,JPEG compression anti-forensics,TO,IEEE
+"
+
+ Android Malware Forensics: Reconstruction of Malicious Events
+
+",2012,Environment verification,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Android Malware Forensics: Reconstruction of Malicious Events
+
+",2012,Obfuscation,Data obscurity,TO,IEEE
+"
+
+ Android Malware Forensics: Reconstruction of Malicious Events
+
+",2012,Strings encryption,Anti-reverse engineering,AT,IEEE
+"
+
+ EXPOSING IMAGE FORGERY THROUGH THE DETECTION OF CONTRAST ENHANCEMENT
+
+",2013,Histogram remapping anti-forensics,Data fabrication,TO,IEEE
+"
+
+ EXPOSING IMAGE FORGERY THROUGH THE DETECTION OF CONTRAST ENHANCEMENT
+
+",2013,Local random dithering (Gaussian noise addition),Data fabrication,TO,IEEE
+"
+
+ Forensic Analysis of Wickr Application on Android Devices
+
+",2013,Self-destructing messages,Ephemeral messaging (auto-delete),TO,IEEE
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Disk cleaning,Disk wiping,AW,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Encryption,Encryption,DH,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,File signature altering,Filesystem manipulation,DH,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Free space and memory cleaning,Generic data wiping,AW,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Hash dumping without disk access,Hash value integrity attacks,AT,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Hash fooling,Hash value integrity attacks,AT,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Log manipulation,Log manipulation,TO,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Misinformation,Data misdirection/misinformation/framing,TO,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Nested directories,Hidden directories,DH,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Slack space hiding,Slack space hiding,DH,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Spoofing,Data misdirection/misinformation/framing,TO,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Steganography,Steganography,DH,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Timestamp alteration,Log manipulation,TO,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Trojan commands,Trojan commands,TO,Elsevier
+"
+
+ Anti-forensics with a small army of exploits
+
+",2007,Zombie accounts,Zombie accounts,TO,Elsevier
+"
+
+ Digital Forensics: Latest Challenges and Response
+
+",2013,Altering logs,Log manipulation,TO,IEEE
+"
+
+ Digital Forensics: Latest Challenges and Response
+
+",2013,Cryptography,Encryption,DH,IEEE
+"
+
+ Digital Forensics: Latest Challenges and Response
+
+",2013,Deletion by overwriting,Overwriting,AW,IEEE
+"
+
+ Digital Forensics: Latest Challenges and Response
+
+",2013,Denial of Service (DoS) attack on DF tools,Forensic software integrity attacks,AT,IEEE
+"
+
+ Digital Forensics: Latest Challenges and Response
+
+",2013,Exploiting vulnerabilities in DF software,Forensic software integrity attacks,AT,IEEE
+"
+
+ Digital Forensics: Latest Challenges and Response
+
+",2013,Misleading heuristics,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Digital Forensics: Latest Challenges and Response
+
+",2013,Steganography,Steganography,DH,IEEE
+"
+
+ MIXED-STRATEGY NASH EQUILIBRIUM IN THE CAMERA SOURCE IDENTIFICATION GAME
+
+",2013,Fingerprint-copy attack,Data misdirection/misinformation/framing,TO,IEEE
+"
+
+ Forensic Artifacts Left By Virtual Disk Encryption Tools
+
+",2010,Virtual Disk Encryption,Encryption,DH,IEEE
+"
+
+ UNDETECTABLE IMAGE TAMPERING THROUGH JPEG COMPRESSION ANTI-FORENSICS
+
+",2010,Anti-forensic deblocking,JPEG compression anti-forensics,TO,IEEE
+"
+
+ UNDETECTABLE IMAGE TAMPERING THROUGH JPEG COMPRESSION ANTI-FORENSICS
+
+",2010,Anti-forensic dither,Data fabrication,TO,IEEE
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-analysis,Anti-reverse engineering,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-debugger,Anti-reverse engineering,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-disassemblers,Anti-reverse engineering,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-emulation,Anti-reverse engineering,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-hardware,Anti-reverse engineering,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-memory,Memory hiding,DH,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-online analysis,Anti-reverse engineering,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-process,Anti-reverse engineering,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Anti-tools,Alerts to forensic tool usage,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Packers and protectors,Program packers,AT,JDFSL
+"
+
+ Malware Forensics: Discovery of the Intent of Deception
+
+",2010,Root kits,Direct kernel object manipulation (DKOM),DH,JDFSL
+"
+
+ A new anti-forensic tool based on a simple data encryption scheme
+
+",2007,Double encryption,Encryption,DH,IEEE
+"
+
+ A new anti-forensic tool based on a simple data encryption scheme
+
+",2007,Timestamp modification,Log manipulation,TO,IEEE
+"
+
+ A New Technique for Removing Forensically Detectable Traces from Digital Images
+
+",2013,Adding tailored noise to transform coefficients,JPEG compression anti-forensics,TO,IEEE
+"
+
+ A New Technique for Removing Forensically Detectable Traces from Digital Images
+
+",2013,Hiding compression history,JPEG compression anti-forensics,TO,IEEE
+"
+
+ A New Technique for Removing Forensically Detectable Traces from Digital Images
+
+",2013,Removing JPEG blocking artifacts,JPEG compression anti-forensics,TO,IEEE
+"
+
+ A New Technique for Removing Forensically Detectable Traces from Digital Images
+
+",2013,Removing forensically detectable traces from digital images,Data fabrication,TO,IEEE
+"
+
+ The VAD tree: A process-eye view of physical memory
+
+",2007,Direct Kernel Object Manipulation,Direct kernel object manipulation (DKOM),DH,Elsevier
+"
+
+ ANTI-FORENSICS FOR FRAME DELETION/ADDITION IN MPEG VIDEO
+
+",2011,Temporal fingerprint removal,Data obscurity,TO,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Bash alias,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Editing Proc FS,Filesystem manipulation,DH,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Encryption,Remote library injection,DH,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,GOT & PLT,Anti-reverse engineering,AT,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Kernel hooking,Direct kernel object manipulation (DKOM),DH,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Packers,Program packers,AT,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Preloading shared libraries,Remote library injection,DH,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Process hiding,Direct kernel object manipulation (DKOM),DH,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Scheduler modifications,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Teaching Digital Forensics Techniques Within Linux Environments
+
+",2014,Steganography,Steganography,DH,IEEE
+"
+
+ Automatic, Selective and Secure Deletion of Digital Evidence
+
+",2011,Automatic deletion,File wiping,AW,IEEE
+"
+
+ Automatic, Selective and Secure Deletion of Digital Evidence
+
+",2011,Code mutation,Self-modifying code,AT,IEEE
+"
+
+ Automatic, Selective and Secure Deletion of Digital Evidence
+
+",2011,Data replication,Hidden directories,DH,IEEE
+"
+
+ Automatic, Selective and Secure Deletion of Digital Evidence
+
+",2011,Metadata obfuscation,Metadata wiping,AW,IEEE
+"
+
+ Automatic, Selective and Secure Deletion of Digital Evidence
+
+",2011,Secure deletion,File wiping,AW,IEEE
+"
+
+ Automatic, Selective and Secure Deletion of Digital Evidence
+
+",2011,Selective deletion,File wiping,AW,IEEE
+"
+
+ Automatic, Selective and Secure Deletion of Digital Evidence
+
+",2011,Self-deletion,File wiping,AW,IEEE
+"
+
+ Automatic, Selective and Secure Deletion of Digital Evidence
+
+",2011,Wiping,Generic data wiping,AW,IEEE
+"
+
+ A Modified Anti-Forensic Technique for Removing Detectable Traces from Digital Images
+
+",2013,Adding tailored noise,Data fabrication,TO,IEEE
+"
+
+ A Modified Anti-Forensic Technique for Removing Detectable Traces from Digital Images
+
+",2013,Hiding traces of compression,JPEG compression anti-forensics,TO,IEEE
+"
+
+ A Modified Anti-Forensic Technique for Removing Detectable Traces from Digital Images
+
+",2013,Hiding traces of filtering,Data fabrication,TO,IEEE
+"
+
+ A Modified Anti-Forensic Technique for Removing Detectable Traces from Digital Images
+
+",2013,Removing detectable traces from digital images,Data fabrication,TO,IEEE
+"
+
+ On the Construction of a False Digital Alibi on the Android OS
+
+",2011,Event-Injection,Log manipulation,TO,IEEE
+"
+
+ On the Construction of a False Digital Alibi on the Android OS
+
+",2011,Event-Replication,Log manipulation,TO,IEEE
+"
+
+ On the Construction of a False Digital Alibi on the Android OS
+
+",2011,Remote Control,Trojan commands,TO,IEEE
+"
+
+ On the Construction of a False Digital Alibi on the Android OS
+
+",2011,Secure deletion of automation traces,File wiping,AW,IEEE
+"
+
+ On the Construction of a False Digital Alibi on the Android OS
+
+",2011,Simple Automation,Presence of anti-forensics tools/files/installation files,PIA,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,BitLocker drive encryption,Encryption,DH,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,Blockade in advance of evidence production,Data obscurity,TO,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,Data deletion,File wiping,AW,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,Data enciphering,Encryption,DH,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,Data recovery avoidance,Generic data wiping,AW,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,Deletion of evidence data,File wiping,AW,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,Encryption password of compression,Encryption,DH,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,Hard disk wiping,Disk wiping,AW,IEEE
+"
+
+ Defense Technology of Anti Forensic
+
+",2008,Steganography,Steganography,DH,IEEE
+"
+
+ Formal Digital Investigation of Anti-forensic Attacks
+
+",2010,Attacking the investigator,Investigator integrity attacks,AT,IEEE
+"
+
+ Formal Digital Investigation of Anti-forensic Attacks
+
+",2010,Attacking the tools,Forensic software integrity attacks,AT,IEEE
+"
+
+ Formal Digital Investigation of Anti-forensic Attacks
+
+",2010,Covert channels,Network-based data hiding,DH,IEEE
+"
+
+ Formal Digital Investigation of Anti-forensic Attacks
+
+",2010,Data hiding in storage space,Hidden partition utilization,DH,IEEE
+"
+
+ Formal Digital Investigation of Anti-forensic Attacks
+
+",2010,Encryption,Encryption,DH,IEEE
+"
+
+ Formal Digital Investigation of Anti-forensic Attacks
+
+",2010,Residual data wiping,Unallocated space wiping,AW,IEEE
+"
+
+ Formal Digital Investigation of Anti-forensic Attacks
+
+",2010,Steganography,Steganography,DH,IEEE
+"
+
+ Formal Digital Investigation of Anti-forensic Attacks
+
+",2010,Tail obfuscation,Trail obfuscation,TO,IEEE
+"
+
+ iOS anti-forensics: How can we securely conceal, delete and insert data?
+
+",2014,Concealment,Data obscurity,TO,IEEE
+"
+
+ iOS anti-forensics: How can we securely conceal, delete and insert data?
+
+",2014,Deletion,File wiping,AW,IEEE
+"
+
+ iOS anti-forensics: How can we securely conceal, delete and insert data?
+
+",2014,Disable file system journaling,Filesystem manipulation,DH,IEEE
+"
+
+ iOS anti-forensics: How can we securely conceal, delete and insert data?
+
+",2014,Insertion,Data fabrication,TO,IEEE
+Survey  of  data  remaining  on  second  hand memory  cards  in  the  UK  ?,2014,": 
+  Data wiping",Generic data wiping,AW,Elseiver
+Survey  of  data  remaining  on  second  hand memory  cards  in  the  UK  ?,2014,File deletion,File wiping,AW,Elseiver
+Survey  of  data  remaining  on  second  hand memory  cards  in  the  UK  ?,2014,Formatting,Disk wiping,AW,Elseiver
+"Generating Higher-Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask
+",2024,File wiping,Adversarial DeepFake Detector Evasion,AAF,ACM
+"Generating Higher-Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask
+",2024,AI-Driven Anti-Forensic,Adversarial DeepFake Detector Evasion,AAF,ACM
+"Generating Higher-Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask
+",2024,AI-Driven Anti-Forensic,Adversarial DeepFake Detector Evasion,AAF,ACM
+"Generating Higher-Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask
+",2024,AI-Driven Anti-Forensic,Adversarial DeepFake Detector Evasion,AAF,ACM
+"Generating Higher-Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask
+",2024,AI-Driven Anti-Forensic,Adversarial DeepFake Detector Evasion,AAF,ACM
+"Generating Higher-Quality Anti-Forensics DeepFakes with Adversarial Sharpening Mask
+",2024,AI-Driven Anti-Forensic,Adversarial DeepFake Detector Evasion,AAF,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",,Unsharp masking sharpening,N/A,N/A,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",,Anti-UMS (removing overshoot artifacts and abrupt histogram changes),Data obscurity,TO,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",,Gamma correction,N/A,N/A,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",,Anti-GC (Gaussian noise addition),Data obscurity,TO,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",2018,Anti-GC (uniform noise addition),Data obscurity,TO,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",2018,Median filtering,N/A,N/A,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",2018,Anti-MF (noise disturbance addition),Data obscurity,TO,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",2018,Anti-MF (random noise addition),Data obscurity,TO,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",2018,Resampling,N/A,N/A,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",2018,Anti-RES (distortion with œÉ=0.4),Data obscurity,TO,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",2018,JPEG compression,N/A,N/A,ACM
+"
+   Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks
+",2018,Anti-JPEG (dither added in DCT coefficients),Data obscurity,TO,ACM
+"
+   Improving JPEG Image Anti-forensics
+",2016,JPEG compression anti-forensics,Data obscurity,TO,ACM
+"
+   Improving JPEG Image Anti-forensics
+",2016,Anti-forensic de-blocking,Data obscurity,TO,ACM
+"
+   Improving JPEG Image Anti-forensics
+",2016,Image dithering with Gaussian noise,Data obscurity,TO,ACM
+"
+   Improving JPEG Image Anti-forensics
+",2016,Noise removal (Gaussian de-noising),Data obscurity,TO,ACM
+"
+   Improving JPEG Image Anti-forensics
+",2016,Histogram equalization,Data obscurity,TO,ACM
+"
+   Improving JPEG Image Anti-forensics
+",2016,Wiener filtering,Data obscurity,TO,ACM
+"
+   Improving JPEG Image Anti-forensics
+",2016,Decimal histogram analysis,Data obscurity,TO,ACM
+"
+   New Approach on Steganalysis: Reverse-Engineering based Steganography SW Analysis
+",2020,Reverse engineering of steganography software,Anti-reverse engineering,AT,ACM
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",2013,JPEG anti-forensics,Data obscurity,TO,ACM
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",2013,Dithering signal addition to DCT coefficients,Data obscurity,TO,ACM
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",2013,Anti-forensic deblocking with median filtering and Gaussian noise addition,Data obscurity,TO,ACM
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",2013,Non-parametric DCT histogram smoothing,Data obscurity,TO,ACM
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",2013,MAP-based image restoration with natural image statistics,Data obscurity,TO,ACM
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",2013,Quantization noise estimation in the DCT domain,Data obscurity,TO,ACM
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",2013,Calibration-based DCT histogram smoothing,Data obscurity,TO,ACM
+"
+   JPEG Anti-forensics Using Non-parametric DCT Quantization Noise Estimation and Natural Image Statistics
+",2013,White Gaussian noise injection,Data obscurity,TO,ACM
+"
+   Anti-Forensics of Contrast Enhancement in Digital Images
+",2010,Integrated attack by local random dithering,Data obscurity,TO,ACM
+"
+   Anti-Forensics of Contrast Enhancement in Digital Images
+",2010,Postprocessing attack by adding noise,Data obscurity,TO,ACM
+"
+   Anti-Forensics of Contrast Enhancement in Digital Images
+",2010,Undetectable contrast enhancement,Data obscurity,TO,ACM
+"
+   Anti-Forensics of Contrast Enhancement in Digital Images
+",2010,Tamper hiding with dithering-based mapping,Data obscurity,TO,ACM
+"
+   Anti-Forensics of Contrast Enhancement in Digital Images
+",2010,Gamma correction with dithering,Data obscurity,TO,ACM
+"
+   Anti-Forensics of Contrast Enhancement in Digital Images
+",2010,S mapping with dithering,Data obscurity,TO,ACM
+"
+   Forensics and counter anti-forensics of video inter-frame forgery
+",2016,Frame deletion,Data misdirection,TO,springer
+"
+   Forensics and counter anti-forensics of video inter-frame forgery
+",2016,Frame insertion,Data fabrication,TO,springer
+"
+   Forensics and counter anti-forensics of video inter-frame forgery
+",2016,Frame deletion anti-forensics by increasing prediction error,Data obscurity,TO,springer
+"
+   Forensics and counter anti-forensics of video inter-frame forgery
+",2016,Anti-forensic modification of motion vectors,Data obscurity,TO,springer
+"
+   Forensics and counter anti-forensics of video inter-frame forgery
+",2016,countering frame deletion anti-forensics,Data obscurity,TO,springer
